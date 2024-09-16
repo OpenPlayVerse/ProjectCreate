@@ -1,0 +1,12 @@
+name = "ProjectCreate"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f844fc6313ee79a56bd2812e2788bdbd921060aff756b0565daf2f36525bdc5d"
+
+[versions]
+forge = "47.3.10"
+minecraft = "1.20.1"
