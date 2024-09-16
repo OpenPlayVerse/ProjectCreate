@@ -3,7 +3,7 @@ filename = "server.conf"
 side = "server"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw//402a0906fc8add44310fa33325863784ae66f5a7/files/server/config/server.conf"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw//76ece34e9c468cb73f3e7b0c041db3f5c8ea10a3/files/server/config/server.conf"
 hash-format = "sha1"
 hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 					
