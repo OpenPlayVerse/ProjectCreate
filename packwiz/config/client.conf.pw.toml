@@ -1,0 +1,9 @@
+name = "client.conf"
+filename = "client.conf"
+side = "client"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw//f48797f9fa7a0a8c3ae02d38c1ad27ea2813e83c/files/client/config/client.conf"
+hash-format = "sha1"
+hash = "f1e3f1c20e82baace0b38d864fc038ca7b900fb1"
+					

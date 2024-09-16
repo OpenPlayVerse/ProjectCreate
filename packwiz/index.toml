@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/both.conf.pw.toml"
+hash = "5b25c443b20532fa15fa11bb6d610e8e3f077167a5c6b0cf7679c8f0a2a60e90"
+metafile = true
+
+[[files]]
+file = "config/client.conf.pw.toml"
+hash = "0763c277ea4dc465838eb3cfe47bb1b8432254f6052df18bb12a5fc22ee53733"
+metafile = true
+
+[[files]]
+file = "config/server.conf.pw.toml"
+hash = "6d2fb7b0755dc4df7358f81c7cdaae2e07e2b2b57718743761b0744343a3eaf5"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
@@ -82,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "5955ac62823eacbf9a6d227e3813451b6a14388aa29e9326fdd62e569d159fab"
+hash = "9f6549632beaf69f50cda48da9b5d38a8689e42ffa66cfb1621e7330329509aa"
 metafile = true
 
 [[files]]
