@@ -1,0 +1,35 @@
+Architectury API
+BadOptimizations
+Balm
+Botarium
+Clockwork
+Create
+Create Big Cannons
+Create Deco
+Create Deco Additions
+Create Goggles
+Create: Copycats+
+Create: Diesel Generators
+Create: Dreams & Desires
+Create: Interactive
+Create: New Age
+Create: Steam 'n' Rails
+Destroy (Create add-on)
+Distant Horizons
+Dynamic FPS
+Entity Culling
+fast-ip-ping
+FerriteCore
+Inventory Essentials
+Inventory Profiles Next
+Just Enough Items
+Kotlin for Forge
+Let Me Despawn
+libIPN
+Memory Leak Fix
+Model Gap Fix
+ModernFix
+Packet Fixer
+Remove Reloading Screen
+Sound Physics Remastered
+Valkyrien Skies

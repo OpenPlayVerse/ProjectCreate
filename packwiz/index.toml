@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/cave-dust.pw.toml"
-hash = "afa2e3216ee411af1c2b6f236c51ea1d92e683ae11cdcac01c832c473e121d74"
+hash = "62daa979dbfb04e7e158b45ca330f417d4a63ec9e94bc34531efef1021b4fc35"
 metafile = true
 
 [[files]]
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "9877a4268206623fd1059d4d2a5735385a7d69ac400e0446f8d29f039a66e6d7"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "7fc2edc01306f33574b8221e5778ca4c13fb4e4286f91b62ef4eaf31f03718eb"
 metafile = true
 
 [[files]]
@@ -126,28 +131,18 @@ hash = "dcf86796fa9b4459e3f0824b2a3fea2f314a2e991540171591d208e092a6ea19"
 metafile = true
 
 [[files]]
-file = "mods/destroy.pw.toml"
-hash = "a5b0f85c1e1c585e2e38d2ab902340647b5d59ed83c0bf12f7d17e6d8f48d078"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "6db5b307ba3f1973e143425fd1c3c06825879d4de7d2eb942410cf090b60f1c7"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "29f7a71e4d94c04a4c50c476daea4a9b13eba45d7bc477466fab8ed9c938ea24"
-metafile = true
-
-[[files]]
-file = "mods/eating-animations.pw.toml"
-hash = "fdb5cfa54329b7a11caa6dc16bd1c6c287f2575e6aaead390b9d84f94f37c4e8"
+hash = "e2041a08be68a6f9cd903f6f91a7b1c68cac6f75e51b4e2752dd602fdd1c10b1"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2497b7f5fefc096dedf5bcb0fcecba182b40339fb8410f6699605fdc5d32b06b"
+hash = "7908732468c63535c8c3f86b8b3a8229326d68e153294d49a2df34931f77e337"
 metafile = true
 
 [[files]]
@@ -157,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "1357eeb4a0f06ab3cccd35a209f20b47e6dc9e11f8e9e97a66eddb964f408c49"
+hash = "d33f381e17c2abf8226b0f1e76693fdd0bc9a08b0693a2f5e2a3f20aa9fdbfe1"
 metafile = true
 
 [[files]]
@@ -172,17 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "96320bde9afd69623633debefbaa0d32224fe259ab668c34ad6eab95ba982b22"
+hash = "01e849193aac84016fc5267f8c0948f3f17ca731ada16698da0bcd06bd14597e"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5391a9b1e34b3603f6a862e32f63e8d07871c618df1682bc4e65e6790dbe5d22"
-metafile = true
-
-[[files]]
-file = "mods/just-zoom.pw.toml"
-hash = "ed13a7e31f8a92937da9db93a17012037c66eca3c7fe8e1b8458daae377f5a5c"
+hash = "250ca13bd1b1629e0f5d674f4df386a1f5ede62c6f4d7029c2b08e5da2b45c28"
 metafile = true
 
 [[files]]
@@ -197,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
+hash = "bfad49292c1cb20f539ae79ad7e1dea0757cabe1af63670905f767d222a78965"
 metafile = true
 
 [[files]]
@@ -207,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
-hash = "604b61d0a3718dc5875cdd59a3a8d4168d260043f887c4c1b72eee4429f787d1"
+hash = "7751edabc966742700a4e7ea2f5258e1e027cf9bec5fc90b0ef559bd9dfa09e2"
 metafile = true
 
 [[files]]
@@ -217,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
+hash = "faac49274556f66e131e7d2f554d48d40984bc3d33cf6e25c774b0b51e6c62c5"
 metafile = true
 
 [[files]]
@@ -227,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+hash = "c147db68b4a55241772f282e8aa5d0aae93945cd919bd285200fedc679049227"
 metafile = true
 
 [[files]]
@@ -242,7 +232,12 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "e46fef51b6d5e218f7e111a3c45711fde114a49fa38e99dc86b505a3d2ab630a"
+hash = "5062bbe05b4f9a1e81faf7f9c196613eb9eaa9715ab088076ef4c1e176ad5393"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
@@ -272,5 +267,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
-hash = "625227774f94a26f6ffd518a0d610a800e230852572712a013bbfa78856237e1"
+hash = "017011bcc2d37bc86c0fe16755a95732b8499d78f85a02427735edcfff63c350"
 metafile = true
