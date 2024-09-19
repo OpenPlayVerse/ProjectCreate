@@ -71,6 +71,11 @@ hash = "9877a4268206623fd1059d4d2a5735385a7d69ac400e0446f8d29f039a66e6d7"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "ec88d0e01a8114833d7db604a33f349d3669925845b5e0e09d913498d27d9cd2"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "7fc2edc01306f33574b8221e5778ca4c13fb4e4286f91b62ef4eaf31f03718eb"
 metafile = true
@@ -171,6 +176,11 @@ hash = "01e849193aac84016fc5267f8c0948f3f17ca731ada16698da0bcd06bd14597e"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "5be9aa0c4c891fec9ffed6955a065f7ee5d8b2051d5d8fd5e21d673d73c461b1"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "250ca13bd1b1629e0f5d674f4df386a1f5ede62c6f4d7029c2b08e5da2b45c28"
 metafile = true
@@ -221,6 +231,11 @@ hash = "c147db68b4a55241772f282e8aa5d0aae93945cd919bd285200fedc679049227"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e373e6b43add669a3841b6ee3c61442d81353526b895c01d58c3446794754340"
 metafile = true
@@ -228,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "5e05604371293e654f97880c8865c62ea7ef33cf63dd841c2b28d1d1d8ff01ce"
 metafile = true
 
 [[files]]
@@ -248,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "4b9d8a50372f67ef9256a47b033e860f879d4997570030592204750cfac30347"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "86791c7666050fd91e83d4e55400afaa95f55688fb2fe74a8dcd6c4e6e9e42b9"
 metafile = true
 
 [[files]]
