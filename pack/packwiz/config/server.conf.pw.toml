@@ -1,0 +1,9 @@
+name = "server.conf"
+filename = "server.conf"
+side = "server"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw//acba9e051681ea2ed5d0505d5629c5f580279191/files/server/config/server.conf"
+hash-format = "sha1"
+hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+					

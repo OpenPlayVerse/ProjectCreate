@@ -1,0 +1,31 @@
+0.0.3
+
+Made all client side mods optional.
+
+Mod changes:
+  + 3D Skin Layers
+  + Animated Doors
+  + Animated Doors RP
+  + BetterF3
+  + both.conf
+  + Cave Dust
+  + Chunk Animator
+  + client.conf
+  + Cloth Config API
+  + Collective
+  + Controlling
+  + Falling Leaves (NeoForge/Forge)
+  + Konkrete
+  + Make Bubbles Pop
+  + Mouse Tweaks
+  + Not Enough Animations
+  + Searchables
+  + server.conf
+  + Shulker Box Tooltip
+  + Tiny Item Animations
+  + Tree Harvester
+
+  - Destroy (Create add-on):
+    Incompatible with the newest create version. No updates anymore?
+  - Inventory Essentials:
+    Causing crashes.
