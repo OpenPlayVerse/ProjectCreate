@@ -1,5 +1,5 @@
 #!/bin/bash
-version="1.0.4"
+version="1.0.4d"
 
 ### init ###
 # error detection
@@ -186,9 +186,9 @@ wait() {
 if [[ $noGitPush == 1 ]]; then
 	echo "WARN: Skipping repository check because no git push happened"
 else
-	echo "Check prep repository integrity (${prepGitBlob}, ${versionPrepID})"
+	echo "Check prep repository integrity (${packURL}/raw/${prepGitBlob}/.versionID (${versionPrepID}))"
 	wait "Prep repository not updated yet. Wait another 30 seconds" ${packURL}/raw/${prepGitBlob}/.versionID $versionPrepID
-	echo "Check main repository integrity (${mainGitBlob}, ${versionID})"
+	echo "Check main repository integrity (${packURL}/raw/${mainGitBlob}/.versionID (${versionID}))"
 	wait "Main repository not updated yet. Wait another 30 seconds" ${packURL}/raw/${mainGitBlob}/.versionID $versionID
 	if [[ $skipRepoBranchCheck == 1 ]]; then
 		echo "Skipping branch check"
