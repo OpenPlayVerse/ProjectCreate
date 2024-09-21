@@ -196,6 +196,11 @@ hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/interactive.pw.toml"
 hash = "b094e34df4e623024f47c4ed8ca41684f736c2e2c6d4f9504fa2660254e51d66"
 metafile = true
@@ -277,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "024b84d05f174b62ab6ff1adb1aeef1ccaf2ab8b4fb0f8b3d2d7f293e0d48493"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "7e987a1cd98c2b5b26d11ded0cfe3c9d8270654cfe2cef4dae594189a149f403"
 metafile = true
 
 [[files]]
