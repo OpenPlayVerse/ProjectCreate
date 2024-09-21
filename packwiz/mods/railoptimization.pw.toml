@@ -1,0 +1,13 @@
+name = "RailOptimization"
+filename = "RailOptimization-1.20(.1)-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QSvN5pBU/versions/lkFXpXNU/RailOptimization-1.20%28.1%29-1.0.jar"
+hash-format = "sha1"
+hash = "a86dd14769e5ae31df6acd72e8c950b1e3dae40b"
+
+[update]
+[update.modrinth]
+mod-id = "QSvN5pBU"
+version = "lkFXpXNU"
