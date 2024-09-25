@@ -36,6 +36,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "ace59828d77e2c664f2b2e84a0fbbbf7c213fc44cdbd0952ef414423cf8ab2ee"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "23e8e899ff4848205ed3f45f15a6270513ec86f1235c6734041ec7aa65e243d6"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
+metafile = true
+
+[[files]]
+file = "mods/banhammer.pw.toml"
+hash = "73fcb65b1d53a39fef80d972e697fb742104d1b03179080ab2abd44cc88b9fcf"
 metafile = true
 
 [[files]]
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "5ad42e42f8cbec58a310ca35cfbe5a89b29e97cc22e5d2e0d81c042de758efb5"
 metafile = true
 
 [[files]]
@@ -167,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6db5b307ba3f1973e143425fd1c3c06825879d4de7d2eb942410cf090b60f1c7"
+hash = "ce1f588d898e7073c3a9dbe402766da2af381610bf4d05c5456bf109b92d5311"
 metafile = true
 
 [[files]]
@@ -183,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9dc15a934ffe6b258bbd271cc67e6ce9354ae4f35421c516e32651e3b1368fb3"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "c454a8e8462d84f82683b3d567ffcfdceba052fc70491486ae8e8484f9eac988"
 metafile = true
 
 [[files]]
@@ -212,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
+hash = "44f73bddfa21959715e8ba87768324c787b53212a20f2892dd691aa5814f68fd"
 metafile = true
 
 [[files]]
@@ -248,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
 metafile = true
 
 [[files]]
@@ -311,6 +336,11 @@ hash = "024b84d05f174b62ab6ff1adb1aeef1ccaf2ab8b4fb0f8b3d2d7f293e0d48493"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "b61858247ad476daca4d59fce04e029924d9215207f260c338ce9a446f90f461"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "7e987a1cd98c2b5b26d11ded0cfe3c9d8270654cfe2cef4dae594189a149f403"
 metafile = true
@@ -328,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "9de1ee6b883e261423c0571044bf0cb1c07c5f580e528e1a84e93f0a7c4b082b"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
@@ -393,6 +428,21 @@ metafile = true
 [[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "cf0e66b5a282bed29ba35b96ec0f0ecdb9c776bb5106ed3dc3422d769630dee7"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.jar.pw.toml"
+hash = "fb313a958e2ffffa952efda280bcd0e17aa206f87f487fcefaff12458a857b04"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "52249363d80f60c37a102ce50ec7c28bb3778ce6562048a4b891bea54c3aea52"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ece58ce9e319e1f38dfa759719f72be0c0b4c7bb98e910ba031173883aa4dfac"
 metafile = true
 
 [[files]]

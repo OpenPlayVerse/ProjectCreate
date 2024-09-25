@@ -11,3 +11,7 @@ hash = "a80d748a23950fb68597599b39af847ceda6edde"
 [update.modrinth]
 mod-id = "blWBX5n1"
 version = "thTIgDLT"
+
+[option]
+optional = true
+default = true
