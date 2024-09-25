@@ -1,0 +1,9 @@
+name = "worldedit.jar"
+filename = "worldedit-mod-7.2.15.jar"
+side = "both"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/700f069f515311e29e6ecd40ca82bfab1ecd03c0/files/both/mods/worldedit-mod-7.2.15.jar"
+hash-format = "sha1"
+hash = "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+					
