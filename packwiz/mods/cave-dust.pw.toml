@@ -1,16 +1,16 @@
 name = "Cave Dust"
-filename = "cavedust-2.0.4-1.20.1-forge.jar"
+filename = "cave_dust-3.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jawg7zT1/versions/inDklMG3/cavedust-2.0.4-1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/jawg7zT1/versions/NPD3ud2m/cave_dust-3.0.0.jar"
 hash-format = "sha1"
-hash = "c18fba965e5dab309de5adf9e8fd7ee3253be7e9"
+hash = "633d43fa66ca843c29bb2103416717a154ecb469"
 
 [update]
 [update.modrinth]
 mod-id = "jawg7zT1"
-version = "inDklMG3"
+version = "NPD3ud2m"
 
 [option]
 optional = true

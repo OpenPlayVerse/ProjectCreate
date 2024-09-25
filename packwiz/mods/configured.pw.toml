@@ -1,15 +1,15 @@
 name = "Configured"
-filename = "configured-forge-1.20.1-2.2.3.jar"
+filename = "configured-fabric-1.20.1-2.2.3.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "065c2d287a52f52fc8d33d780192325ee6f4b6ae"
+hash = "c85adcba2f4cd0252dc8698d00a24b1e283d2cb8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5180900
+file-id = 5180902
 project-id = 457570
 
 [option]
