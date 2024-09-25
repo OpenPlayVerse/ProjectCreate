@@ -1,0 +1,13 @@
+name = "Fabric TPS"
+filename = "fabric_tps-1.20.1-1.4.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/X30askCw/versions/v16SCviV/fabric_tps-1.20.1-1.4.0.jar"
+hash-format = "sha1"
+hash = "27d5013556834eea4b8beafbd246023b2f4f94e0"
+
+[update]
+[update.modrinth]
+mod-id = "X30askCw"
+version = "v16SCviV"

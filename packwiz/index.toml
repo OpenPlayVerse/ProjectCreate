@@ -46,8 +46,18 @@ hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
 metafile = true
 
 [[files]]
+file = "mods/better-sodium-video-settings-button.pw.toml"
+hash = "a199386598af4a4adf6978ec3902fe97a24190f52c7c7cef0dc8d06266f397ff"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
-hash = "b0a46a2b7f17ffbc11b6f4683641c59a99868097c821144a9ed5a3ad71c14406"
+hash = "e5d86fb4c17efd499b0d954103a46fe68b2ae1d4737de7e9101a13f7cc57fb9c"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "ef110bda99269373b1897ca6322509a40885e69174260f07e42e9b8b1335e76b"
 metafile = true
 
 [[files]]
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "e3c16dab7045c40fc62f8af51b9128682dfd42c0b73580da268998d62cc22d9c"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
 
 [[files]]
@@ -181,6 +196,11 @@ hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]
+file = "mods/fabric-tps.pw.toml"
+hash = "ffbd32036e3f35326a4936105bdb0506f46e5af3f673acc39a02d8776d281ee3"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "05432274d2b59e22eeebe4d8971845cefcce34f9ff47f4b6c41be6b49d87eba5"
 metafile = true
@@ -198,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "b7a1b382e9169392b2cb86fa118b4d9d4411bf18ed54d9b2ac66eefdded674ea"
 metafile = true
 
 [[files]]
@@ -246,10 +271,6 @@ hash = "eb8f399d9fe2fa043e4ecf650d6eb8dd988c33cfcedb1a701661f5655c97c03a"
 metafile = true
 
 [[files]]
-file = "mods/mcunsafe-0.0.0-build.local.jar"
-hash = "6eb594af167ab12c1a8b4134962852005130d44be674bc76471055f27567bebc"
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -262,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "7121db2ef3656272d19fd9210e2d1fc31072ac4fdbc3d98f717807c92460ba77"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e3e9605435c29910b061ddb936fb1e5caa89c70cf5e7a1ff150666bc0f4501fe"
 metafile = true
 
 [[files]]
@@ -327,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/slumber.pw.toml"
 hash = "31320905f9994253ed2f455c97e0707fe97bc4734f5096dc79b021369b4554b3"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "7f55a261b02fe47c9a36277c4d64a31b81b7e6a590b949d3d4e3111abe3afbfb"
 metafile = true
 
 [[files]]
