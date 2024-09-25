@@ -1,0 +1,3 @@
+0.0.9d
+
+Disabled "Sound Physics Remastered" mod per default cause of incompatibility with Sodium.
