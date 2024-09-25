@@ -1,5 +1,5 @@
 #!/bin/bash
-version="1.0.4d"
+version="1.2"
 
 ### init ###
 # error detection
@@ -28,6 +28,7 @@ noServerUpdate=0
 noCleanup=0
 noGitPush=0
 confFile="pack.conf"
+skipBranchCheck=0
 
 # parse args
 help() {
@@ -44,6 +45,8 @@ help() {
 	echo "  -R, --no-release         do not publish github release."
 	echo "  -S, --skip-main-repo-check  skip main repo integrity check."
 	echo "  -C, --no-cleanup         do not delete generatet release files"
+	echo "      --skip-branch-check  do not check if the current branch matches"
+	echo "                             the configured one"
 	exit 0	
 }
 while [[ $# -gt 0 ]]; do
@@ -73,6 +76,10 @@ while [[ $# -gt 0 ]]; do
 			noCleanup=1
 			shift
 			;;
+		--skip-branch-check)
+			skipBranchCheck=1
+			shift
+			;;
 		-v|--version)
 			echo "v${version}"
 			shift
@@ -91,6 +98,16 @@ done
 
 # load conf
 . $confFile
+
+# check branch
+if [[ $skipBranchCheck == 1 ]]; then
+	echo "WARN: Skipping branch check"
+else
+	if [[ $branch != $(git rev-parse --abbrev-ref HEAD) ]]; then
+		echo "ERROR: Current branch does not math the configured branch"
+		exit 1
+	fi
+fi
 
 ### update ###
 if [[ $noGitPush == 1 ]]; then
@@ -138,23 +155,25 @@ else
 	mainGitBlob=$(git rev-parse HEAD)
 fi
 
-### create multimc releases ###
+### create release files ###
 mkdir -p $tmpReleaseFileLocation
 touch $tmpReleaseFileLocation/toDelete
 rm -r ${tmpReleaseFileLocation}/*
 
 dirName=${packName}-latest_MultiMC
-cp -r multimc ${tmpReleaseFileLocation}/$dirName
+cp -r release/multimc ${tmpReleaseFileLocation}/$dirName
 cd ${tmpReleaseFileLocation}/$dirName
 # echo PreLaunchCommand="\$INST_JAVA" -jar packwiz-installer-bootstrap.jar -s client ${packURL}/${branch}/packwiz/pack.toml >> instance.cfg
 echo PreLaunchCommand="\$INST_JAVA" -jar update-pack.jar \"\$INST_JAVA\" \"client\" \"${packURL}\" \"${branch}\" >> instance.cfg
 cd $workingDir
 
 dirName=${packName}-v${packVersion}_MultiMC
-cp -r multimc ${tmpReleaseFileLocation}/$dirName
+cp -r release/multimc ${tmpReleaseFileLocation}/$dirName
 cd ${tmpReleaseFileLocation}/$dirName
 echo PreLaunchCommand="\$INST_JAVA" -jar packwiz-installer-bootstrap.jar -s client ${packURL}/raw/${mainGitBlob}/packwiz/pack.toml >> instance.cfg
 cd $workingDir
+
+rsync -r --exclude "multimc/" release/* ${tmpReleaseFileLocation}
 
 echo 
 if [[ $noRelease == 1 ]]; then

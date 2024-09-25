@@ -1,36 +1,3 @@
-0.0.9
+0.0.9d
 
-Changed mod loader to Fabric
-
-### Mod Changes
-  \+ Alternate Current 
-  \+ Better Sodium Video Settings Button 
-  \+ Bobby 
-  \+ Carpet 
-  \+ Chunky 
-  \+ Concurrent Chunk Management Engine (Fabric) 
-  \+ Create Fabric 
-  \+ Create: Diesel Generators [Fabric] 
-  \+ Cull Leaves 
-  \+ Enhanced Block Entities 
-  \+ Fabric API 
-  \+ Fabric Language Kotlin 
-  \+ Fabric TPS 
-  \+ Forge Config API Port 
-  \+ Indium 
-  \+ kennytvs-epic-force-close-loading-screen-mod-for-fabric 
-  \+ Lithium 
-  \+ Mod Menu 
-  \+ Open Parties and Claims 
-  \+ RailOptimization 
-  \+ Slumber 
-  \+ Sodium 
-  \+ Very Many Players (Fabric) 
-
-  \- Chunk Animator 
-  \- Create 
-  \- Create: Diesel Generators 
-  \- Falling Leaves (NeoForge/Forge) 
-  \- Kotlin for Forge 
-  \- Radium 
-  \- Smooth Boot (Reloaded)
+Disabled "Sound Physics Remastered" mod per default cause of incompatibility with Sodium.
