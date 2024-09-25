@@ -36,11 +36,6 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "ace59828d77e2c664f2b2e84a0fbbbf7c213fc44cdbd0952ef414423cf8ab2ee"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "23e8e899ff4848205ed3f45f15a6270513ec86f1235c6734041ec7aa65e243d6"
 metafile = true
@@ -78,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
-metafile = true
-
-[[files]]
-file = "mods/cadmus.pw.toml"
-hash = "5ad42e42f8cbec58a310ca35cfbe5a89b29e97cc22e5d2e0d81c042de758efb5"
 metafile = true
 
 [[files]]
@@ -358,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "9de1ee6b883e261423c0571044bf0cb1c07c5f580e528e1a84e93f0a7c4b082b"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
