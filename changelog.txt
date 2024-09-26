@@ -1,16 +1,3 @@
-0.1
+0.1.1
 
-Disabled "Sound Physics Remastered" mod per default cause of incompatibility with Sodium.
-
-Mod changes:
-  \+ BanHammer 
-  \+ CC: Tweaked 
-  \+ CC: VS 
-  \+ CC:C Bridge 
-  \+ Create Support for Open Parties and Claims 
-  \+ Essential Commands 
-  \+ Ledger 
-  \+ worldedit.jar 
-  \+ Xaero's Minimap 
-  \+ Xaero's World Map 
-  \+ Yet Another World Protector 
+Added official ProjectCreate server per default
