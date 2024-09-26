@@ -1,7 +1,5 @@
 ProjectCreate is a Minecraft modpack build around the [Create](https://modrinth.com/mod/create) mod.
 
-[Create trailer](https://www.youtube.com/watch?v=rR8W-f9YhYA)
-
 # Installation
 ### PolyMC launcher
 1. [Download PolyMC](https://polymc.org/download/)
