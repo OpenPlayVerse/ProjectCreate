@@ -2,7 +2,7 @@ ProjectCreate is a Minecraft modpack build around the [Create](https://modrinth.
 The pack is designed to be played on our public server.
 
 Server address: pc.openplayverse.net  
-[Discord server](https://discord.gg/RAuzfjSuuT).
+[Discord server](https://discord.gg/RAuzfjSuuT)
 
 # Installation
 ### PolyMC launcher
