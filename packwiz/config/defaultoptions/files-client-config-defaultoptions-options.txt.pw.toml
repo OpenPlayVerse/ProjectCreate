@@ -3,7 +3,7 @@ filename = "options.txt"
 side = "client"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/501378696a8330f5cc67877c0d853e90a06287c2/files/client/config/defaultoptions/options.txt"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/1e8d46ba75f71365c7988a2bfb88f6b5e7b6c462/files/client/config/defaultoptions/options.txt"
 hash-format = "sha1"
 hash = "fa550454d5d31e87d551bba3dee4763e52757281"
 					
