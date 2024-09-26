@@ -1,7 +1,7 @@
 ProjectCreate is a Minecraft modpack build around the [Create](https://modrinth.com/mod/create) mod.
 
 # Installation
-### MultiMC / PolyMC
+### PolyMC launcher
 1. [Download PolyMC](https://polymc.org/download/)
 2. Run PolyMC
 3. Click on "Add Instance" >> "Import from zip"
