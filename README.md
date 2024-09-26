@@ -8,7 +8,7 @@ ProjectCreate is a Minecraft modpack build around the [Create](https://modrinth.
 4. Copy [this link](https://github.com/OpenPlayVerse/ProjectCreate/releases/latest/download/ProjectCreate-latest_MultiMC.zip ) into the text field
 ![example](https://github.com/OpenPlayVerse/ProjectCreate/blob/testing/images/polymc.png?raw=true)
 5. Run the imported instance.  
-(It might be necessary to manually [manually configure java](https://polymc.org/wiki/getting-started/create-instance/).
+(It might be necessary to manually [manually configure java](https://polymc.org/wiki/getting-started/create-instance/).)
 
 ### Manually
 1. Install Minecraft using any launcher
