@@ -14,7 +14,7 @@ ProjectCreate is a Minecraft modpack build around the [Create](https://modrinth.
 1. Install Minecraft using any launcher
 2. Download the latest [pack installer](https://github.com/OpenPlayVerse/ProjectCreate/releases/latest)
 3. Unpack the zip file into the `.minecraft` folder the pack is supposed to install into
-4. Run `install-modpack_VERSION.sh` on linux or `install-modpack_VERSION.bat` on windows (a UI should open up to select optional mods)
+4. Run `install-modpack_VERSION` (a UI should open up to select optional mods)
 5. Run Minecraft
 
 
