@@ -2,4 +2,5 @@
 ./packwiz/config/files-server-config-yawp.toml.pw.toml
 ./packwiz/config/files-client-config-dynamic.json.pw.toml
 ./packwiz/config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml
+./packwiz/config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml
 ./packwiz/mods/files-both-mods-worldedit.jar.pw.toml

@@ -1,0 +1,9 @@
+name = "options.txt"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/501378696a8330f5cc67877c0d853e90a06287c2/files/client/config/defaultoptions/options.txt"
+hash-format = "sha1"
+hash = "fa550454d5d31e87d551bba3dee4763e52757281"
+					
