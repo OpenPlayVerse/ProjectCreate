@@ -1,1 +1,160 @@
-failed to read metadata file mods/worldedit.jar.pw.toml: open mods/worldedit.jar.pw.toml: no such file or directory
+3D Skin Layers
+Alternate Current
+Animated Doors
+Animated Doors RP
+Architectury API
+BadOptimizations
+Balm
+Better Sodium Video Settings Button
+BetterF3
+Bobby
+Botarium
+both.conf
+Carpet
+Cave Dust
+Chunky
+client.conf
+Clockwork
+Cloth Config API
+Collective
+Concurrent Chunk Management Engine (Fabric)
+Configured
+Controlling
+Create Big Cannons
+Create Deco
+Create Deco Additions
+Create Fabric
+Create Goggles
+Create: Copycats+
+Create: Diesel Generators [Fabric]
+Create: Dreams & Desires
+Create: Interactive
+Create: New Age
+Create: Steam 'n' Rails
+Cull Leaves
+Distant Horizons
+Dynamic FPS
+Enhanced Block Entities
+Entity Culling
+Fabric API
+Fabric Language Kotlin
+Fabric TPS
+fast-ip-ping
+FerriteCore
+Forge Config API Port
+Indium
+Inventory Profiles Next
+Jade 🔍
+Just Enough Items
+kennytvs-epic-force-close-loading-screen-mod-for-fabric
+Konkrete
+Let Me Despawn
+libIPN
+Lithium
+Make Bubbles Pop
+Memory Leak Fix
+Mod Menu
+Model Gap Fix
+ModernFix
+Mouse Tweaks
+Nature's Compass
+Noisium
+Not Enough Animations
+Open Parties and Claims
+Packet Fixer
+RailOptimization
+Regions Unexplored
+Remove Reloading Screen
+Searchables
+server.conf
+ServerCore
+Shulker Box Tooltip
+Slumber
+Sodium
+Sound Physics Remastered
+TerraBlender
+Tiny Item Animations
+Tree Harvester
+Valkyrien Skies
+Very Many Players (Fabric)
+WI Zoom
+3D Skin Layers
+Alternate Current
+Animated Doors
+Animated Doors RP
+Architectury API
+BadOptimizations
+Balm
+Better Sodium Video Settings Button
+BetterF3
+Bobby
+Botarium
+both.conf
+Carpet
+Cave Dust
+Chunky
+client.conf
+Clockwork
+Cloth Config API
+Collective
+Concurrent Chunk Management Engine (Fabric)
+Configured
+Controlling
+Create Big Cannons
+Create Deco
+Create Deco Additions
+Create Fabric
+Create Goggles
+Create: Copycats+
+Create: Diesel Generators [Fabric]
+Create: Dreams & Desires
+Create: Interactive
+Create: New Age
+Create: Steam 'n' Rails
+Cull Leaves
+Distant Horizons
+Dynamic FPS
+Enhanced Block Entities
+Entity Culling
+Fabric API
+Fabric Language Kotlin
+Fabric TPS
+fast-ip-ping
+FerriteCore
+Forge Config API Port
+Indium
+Inventory Profiles Next
+Jade 🔍
+Just Enough Items
+kennytvs-epic-force-close-loading-screen-mod-for-fabric
+Konkrete
+Let Me Despawn
+libIPN
+Lithium
+Make Bubbles Pop
+Memory Leak Fix
+Mod Menu
+Model Gap Fix
+ModernFix
+Mouse Tweaks
+Nature's Compass
+Noisium
+Not Enough Animations
+Open Parties and Claims
+Packet Fixer
+RailOptimization
+Regions Unexplored
+Remove Reloading Screen
+Searchables
+server.conf
+ServerCore
+Shulker Box Tooltip
+Slumber
+Sodium
+Sound Physics Remastered
+TerraBlender
+Tiny Item Animations
+Tree Harvester
+Valkyrien Skies
+Very Many Players (Fabric)
+WI Zoom
