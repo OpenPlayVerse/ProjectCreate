@@ -1,4 +1,4 @@
-ProjectCreate is a Minecraft modpack build around the [Create](https://modrinth.com/mod/create) mod.
+ProjectCreate is a Minecraft modpack build around the [Create](https://modrinth.com/mod/create) mod.  
 The pack is designed to be played on our public server.
 
 # Installation
