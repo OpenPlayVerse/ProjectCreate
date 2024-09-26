@@ -1,0 +1,9 @@
+name = "openpartiesandclaims.toml"
+filename = "openpartiesandclaims-server.toml"
+side = "server"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/345df1852ed1b65a05641476ec73d52ede90fbbd/files/server/config/openpartiesandclaims-server.toml"
+hash-format = "sha1"
+hash = "6ac5d052fe2655cfb0c872c7e9362a7b44350f3c"
+					

@@ -11,6 +11,21 @@ hash = "84132cdb13a8540451a5f2d2bcb38f57fad6701fec9e29d60b8b2ce418f3bd5a"
 metafile = true
 
 [[files]]
+file = "config/files-client-config-dynamic.json.pw.toml"
+hash = "2a4a55ea7a07545856ab66dbc79190093af85d6fb1836ed432e824f51a42b4cd"
+metafile = true
+
+[[files]]
+file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
+hash = "58ef7bbc222b782014092181884dcae9f0532b3bbcfa9e42bd0bc412cd1304b8"
+metafile = true
+
+[[files]]
+file = "config/files-server-config-yawp.toml.pw.toml"
+hash = "927bf4d3b3499e5c364cb5db116b7a09c98d7068ffdaa4846684d6f681803cee"
+metafile = true
+
+[[files]]
 file = "config/server.conf.pw.toml"
 hash = "b3a63c3ad041396ca80804d4ff5fab108384eac1cd1036a845ecce88928d7736"
 metafile = true
@@ -236,6 +251,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/files-both-mods-worldedit.jar.pw.toml"
+hash = "3048673c475ebdbea3e88a62fe7d30ae347489d01c66f159c5a2472d60e1cb54"
+metafile = true
+
+[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "44f73bddfa21959715e8ba87768324c787b53212a20f2892dd691aa5814f68fd"
 metafile = true
@@ -431,18 +451,13 @@ hash = "cf0e66b5a282bed29ba35b96ec0f0ecdb9c776bb5106ed3dc3422d769630dee7"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.jar.pw.toml"
-hash = "ddee989b236d4e23836e56fde78d38586dd147ada55eabcb17ef19167065f0e4"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "52249363d80f60c37a102ce50ec7c28bb3778ce6562048a4b891bea54c3aea52"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ece58ce9e319e1f38dfa759719f72be0c0b4c7bb98e910ba031173883aa4dfac"
+hash = "24b12942b3e5bd747f5b160b1666d363e484ca768924b653299acdd44bf12960"
 metafile = true
 
 [[files]]
