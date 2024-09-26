@@ -6,6 +6,7 @@ ProjectCreate is a Minecraft modpack build around the [Create](https://modrinth.
 2. Run PolyMC
 3. Click on "Add Instance" >> "Import from zip"
 4. Copy [this link](https://github.com/OpenPlayVerse/ProjectCreate/releases/latest/download/ProjectCreate-latest_MultiMC.zip ) into the text field
+![example](https://github.com/OpenPlayVerse/ProjectCreate/blob/testing/images/polymc.png?raw=true)
 5. Run the imported instance.  
 (It might be necessary to manually configure install [Java 17](https://adoptium.net/temurin/releases/) manually)
 
