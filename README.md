@@ -9,11 +9,11 @@ ProjectCreate is a Minecraft modpack build around the [Create](https://modrinth.
 5. Run the imported instance.  
 (It might be necessary to manually configure install [Java 17](https://adoptium.net/temurin/releases/) manually)
 
-### Manually (not yet implemented)
+### Manually
 1. Install Minecraft using any launcher
-2. Download the latest installer
-3. Unpack the zip file into the `.minecraft` folder you want to install the pack into
-4. Run `install.sh` on linux or `install.bat` on windows
+2. Download the latest [pack installer](https://github.com/OpenPlayVerse/ProjectCreate/releases/latest)
+3. Unpack the zip file into the `.minecraft` folder the pack is supposed to install into
+4. Run `install.sh` on linux or `install.bat` on windows (a UI should open up to select optional mods)
 5. Run Minecraft
 
 
