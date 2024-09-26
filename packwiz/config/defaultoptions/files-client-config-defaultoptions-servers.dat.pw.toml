@@ -1,0 +1,9 @@
+name = "servers.dat"
+filename = "servers.dat"
+side = "client"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/2c959b1f5f4a333040e8d8c0f70225996554b60d/files/client/config/defaultoptions/servers.dat"
+hash-format = "sha1"
+hash = "340ec8c0c6f47ca269a23c5787375567867b3305"
+					

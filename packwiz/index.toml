@@ -11,18 +11,35 @@ hash = "84132cdb13a8540451a5f2d2bcb38f57fad6701fec9e29d60b8b2ce418f3bd5a"
 metafile = true
 
 [[files]]
+file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
+hash = "bb3cca0ad46123da3cd332c2d8c1d506512cad624f6993e3f17316007cb6a8bb"
+metafile = true
+
+[[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
+<<<<<<< HEAD
 hash = "3d730d921c8a3ca5e5a25ad4381dcbc23c6932de06fb30d008aae0c585fec4a6"
+=======
+hash = "5f63ee8a1d125e61e4e31bd315ef85727e5ee7435b2575763bfc8b82a42c0e1b"
+>>>>>>> testing
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
+<<<<<<< HEAD
 hash = "8efdc8009eadb846d9ac1b03f08a7194930ab940824f931389bbce70e872ccbf"
+=======
+hash = "428a42c7ba2b9755a1b43af58106e67bb34f375dc049058f6270347054aaeba1"
+>>>>>>> testing
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
+<<<<<<< HEAD
 hash = "f5fec76899fa85f164c95baa6ccc648b7a788f7f1f4b66fda2e35169d1812e5c"
+=======
+hash = "e57040f2bd3577a801bdf8ffe398b4bf20bc1354f6530857a1ac80877420faf7"
+>>>>>>> testing
 metafile = true
 
 [[files]]
@@ -257,7 +274,11 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
+<<<<<<< HEAD
 hash = "3010e3aed45385f4f4ef8b489fc359be5015fa5c31b2c7ec573e5e26416989ae"
+=======
+hash = "4b7ed8384b7fee09a6307f00c00163c424fdbb170f5bf8ed6cfaded8a4171f0b"
+>>>>>>> testing
 metafile = true
 
 [[files]]
