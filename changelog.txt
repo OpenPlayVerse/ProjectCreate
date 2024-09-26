@@ -1,3 +1,3 @@
 0.1.1
 
-Added official ProjectCreate server per default
+Added official ProjectCreate server per default.
