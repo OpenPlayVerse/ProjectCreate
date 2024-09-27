@@ -1,0 +1,13 @@
+name = "Player Statistics"
+filename = "playerstatistics-0.2.0+1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PztDP6Mf/versions/hH9bB4y2/playerstatistics-0.2.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "50b2723e3c142435f2775081adae9cf186620e8f"
+
+[update]
+[update.modrinth]
+mod-id = "PztDP6Mf"
+version = "hH9bB4y2"

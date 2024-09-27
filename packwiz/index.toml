@@ -376,6 +376,11 @@ hash = "ef1f961c71b08f2a948299a9a5156aaf4b1628897838aff10c18458c46dc4350"
 metafile = true
 
 [[files]]
+file = "mods/playerstatistics.pw.toml"
+hash = "5e35ee024e06c2e199c1217d44b95e48802fbf664c0b33c51b0f9ce184e6d142"
+metafile = true
+
+[[files]]
 file = "mods/railoptimization.pw.toml"
 hash = "94298bd5b9d44a0707e58310c8e84b8c610f9ea758d302623690294b4c307403"
 metafile = true
@@ -416,8 +421,8 @@ hash = "7f55a261b02fe47c9a36277c4d64a31b81b7e6a590b949d3d4e3111abe3afbfb"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "2562aa7468173d12aab757fdfe9c1b08cca54e037a67eea52f7d431dcaf184b8"
+file = "mods/sqlite-jdbc.pw.toml"
+hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
 metafile = true
 
 [[files]]
