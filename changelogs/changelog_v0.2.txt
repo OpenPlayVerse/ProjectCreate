@@ -1,0 +1,8 @@
+0.2
+
+Mod changes:
+  \+ Player Statistics 
+  \+ SQLite JDBC 
+  
+  \- Sound Physics Remastered   
+    Compatibility problems.
