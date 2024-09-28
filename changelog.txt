@@ -1,8 +1,3 @@
-0.2
+0.3
 
-Mod changes:
-  \+ Player Statistics 
-  \+ SQLite JDBC 
-  
-  \- Sound Physics Remastered   
-    Compatibility problems.
+Changed MultiMC instalce iconKey to "gear".
