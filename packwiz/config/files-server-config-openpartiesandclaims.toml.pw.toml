@@ -3,7 +3,7 @@ filename = "openpartiesandclaims-server.toml"
 side = "server"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/f18be3c0b857252d6e6b712c8fa3e92dc3e4f898/files/server/config/openpartiesandclaims-server.toml"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/6120dae4986cede1105642127a4c1259b9e1dc4e/files/server/config/openpartiesandclaims-server.toml"
 hash-format = "sha1"
 hash = "6ac5d052fe2655cfb0c872c7e9362a7b44350f3c"
 					
