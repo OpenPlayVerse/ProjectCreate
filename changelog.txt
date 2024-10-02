@@ -1,6 +1,1 @@
-0.3.2
-
-Fixed broken Universal installer.
-
-
-
+0.4
