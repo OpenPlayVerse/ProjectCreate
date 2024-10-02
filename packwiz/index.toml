@@ -2,27 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "e9c87c472977fd49b6894c200b0a9044544e1f102b0e3b93cf3618128c5fe206"
+hash = "3ace9978b005ba50df50f8de38d0c3457d11530da3ca71c941e7296361a2aadf"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "c9cc9a3ffed6af9e0848bbd8a50d900724f4c68cf092b188dfd0b896f7a2194a"
+hash = "6044ed0d478590c7aed0c130c6f7d7f4bb2f97bb3c386e2e52cbb32711fc3edd"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "a1de69a5853449e53ce235c8ae5543a393fed60876268cc0027c7ec4da5827a4"
+hash = "967a4ce26c47ea154e8d87cc5b17554e1cf130b13dd0746b9fdafddf6523b0ae"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "238a1bc984b4b6b4c1b2f6e8f31b0feac2c42030d7101973fd351cbbd9ed1c34"
+hash = "61034641e11fd62a4666c9701079dae83c56c45103e12c9545f0ad861ae9f9bc"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "b439927f580c5411bca42507995c275df75a10ad8f705ea1ddd1c68cfb1a4c0e"
+hash = "c8a8d4c9f481a4656ff37567998f4d9d3f540487d573eff44692ab507181dc81"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "3cc4f0e266be76d5bb36a69572af0a388dd72f0a61842672736e97b15e3ca6bc"
+hash = "d1e4fae58e7f93742cae2eb958304c2b23baf13cf08e6de922d8f3936da67118"
 metafile = true
 
 [[files]]
@@ -327,12 +327,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "73f61928771e93dd5f8951d7e7c513609b01271860f152c33b3ca3e2c114686d"
+hash = "0d79753bf107c1160f9c28f482c029de47abec7c07bc3678a7f95ba9e95837a0"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+hash = "63a509e29155dc635e7e0c834d3a770e99c5ed2822c784e1df647bce262e1be9"
 metafile = true
 
 [[files]]
