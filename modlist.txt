@@ -1,6 +1,5 @@
 3D Skin Layers
 Alternate Current
-Animated Doors
 Animated Doors RP
 Architectury API
 BadOptimizations
