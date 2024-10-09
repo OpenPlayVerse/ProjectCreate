@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "a199386598af4a4adf6978ec3902fe97a24190f52c7c7cef0dc8d06266f397ff"
+hash = "7297b8e6578d540c205f0dc28e796ab3e5a0bc1e92de210c6c6277e14347166b"
 metafile = true
 
 [[files]]
@@ -276,6 +276,11 @@ hash = "78fb7fdb30a54d118f1a6da6a63626e996a59a210b3f855c24d78fa15d6d11b6"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "82c75eb20fd53f9474aab91c1c9b487c7e17e570cce55700d5b14e61b5662c7b"
 metafile = true
@@ -327,12 +332,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "73f61928771e93dd5f8951d7e7c513609b01271860f152c33b3ca3e2c114686d"
+hash = "0d79753bf107c1160f9c28f482c029de47abec7c07bc3678a7f95ba9e95837a0"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+hash = "63a509e29155dc635e7e0c834d3a770e99c5ed2822c784e1df647bce262e1be9"
 metafile = true
 
 [[files]]
