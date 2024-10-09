@@ -1,9 +1,1 @@
-0.4
-
-
-Mod changes:
-  \+ MidnightControls 
-  \+ MidnightLib 
-  \+ YetAnotherConfigLib 
-
-  \- Distant Horizons 
+0.5

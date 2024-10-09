@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "a199386598af4a4adf6978ec3902fe97a24190f52c7c7cef0dc8d06266f397ff"
+hash = "7297b8e6578d540c205f0dc28e796ab3e5a0bc1e92de210c6c6277e14347166b"
 metafile = true
 
 [[files]]
@@ -273,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "78fb7fdb30a54d118f1a6da6a63626e996a59a210b3f855c24d78fa15d6d11b6"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
 metafile = true
 
 [[files]]
