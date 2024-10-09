@@ -1,9 +1,0 @@
-name = "harvestable.txt"
-filename = "harvestable_axe_blacklist.txt"
-side = "client"
-
-[download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/2661937bc9f90b43941e88e4b1ecdf9b8b145552/files/client/config/treeharvester/harvestable_axe_blacklist.txt"
-hash-format = "sha1"
-hash = "30c8040321ac90ca57756ad225f5cb1e4c74097d"
-					

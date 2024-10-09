@@ -2,37 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "020676f705ef11ab9d061b47ff1cf9301d14d4dd073978091fb1782acc5bd0c9"
+hash = "8031a299784dda48c6adb2bb0c4a5911bf9a13c484fa553c4363ccd9bba914ab"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "6698509ebe8ee5b3072c410c1affcb11b3bdf2f0bfa835a1164faf0cdf6ce90d"
+hash = "f7cc089cf366687aece1277e23b3c87213acee0c29245991effa976c024edecd"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "f928986e3d59589b05f7fd87f33eb7d9e7b03d12c5e846094498ce71907552f1"
-metafile = true
-
-[[files]]
-file = "config/files-client-config-treeharvester.json5.pw.toml"
-hash = "63da2772be3efadf647d9bce5b9e995e30237ea02454515bb22c8d7c751194a7"
+hash = "9edeaf1b99dace6cb20b61abebf7a2b41f9209b31daf853330ea7fe3da1712ac"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "9460211f6c7556bb08b3a3996554d936166ad7f7e6847e0fbb91b97bca88f06d"
+hash = "216120e6271ff61099db6db64720ef7da157fbe0717d4c2eca9a538ba4fbeb5d"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "ca5614a259cf588c0cda479f1ce685529a34e769f2dd7836d08f9b242e470e77"
-metafile = true
-
-[[files]]
-file = "config/treeharvester/files-client-config-treeharvester-harvestable.txt.pw.toml"
-hash = "8a10143463a7927ffde3c626ab079a0be694aa70f977a9251f7b8c7727c53027"
+hash = "5de2a203ea42006991f6b42de08f29b037c2dd0b0fd0739722cb2146e658abc1"
 metafile = true
 
 [[files]]
@@ -267,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "290841b1021a432fa40c8341054d656e4b9e8b9165819b021cb3d6c456d16112"
+hash = "8ef3cfdfd885cc4ed91c1d94a73fcc2c642510f8a04765a2076a523e36507133"
 metafile = true
 
 [[files]]
@@ -518,4 +508,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
 hash = "017011bcc2d37bc86c0fe16755a95732b8499d78f85a02427735edcfff63c350"
+metafile = true
+
+[[files]]
+file = "scripts/files-both-scripts-crusher.zs.pw.toml"
+hash = "2ffe9c87b1383388340adb8162db3adb904afa617fc58eb393f7a5fc917c2b2e"
 metafile = true

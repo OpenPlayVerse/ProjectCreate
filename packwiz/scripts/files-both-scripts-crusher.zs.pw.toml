@@ -1,0 +1,9 @@
+name = "crusher.zs"
+filename = "crusher.zs"
+side = "both"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/eeb7e41706d4a3987c639685216d5d64b583d1cc/files/both/scripts/crusher.zs"
+hash-format = "sha1"
+hash = "92102d6deb08363b31e675f0158e85a5c605dcc2"
+					
