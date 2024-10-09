@@ -1,0 +1,9 @@
+name = "treeharvester.json5"
+filename = "treeharvester.json5"
+side = "client"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/2661937bc9f90b43941e88e4b1ecdf9b8b145552/files/client/config/treeharvester.json5"
+hash-format = "sha1"
+hash = "7e208a3976d9c9ba75eadd4046ba37ae2684d0d5"
+					

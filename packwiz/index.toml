@@ -2,27 +2,37 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "f88edeb77383a2cd219f33b5e38fd25a6445e743a867f0273877dae3dd6ca822"
+hash = "020676f705ef11ab9d061b47ff1cf9301d14d4dd073978091fb1782acc5bd0c9"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "a8e84297bc450e743a8ad7578e0c43cb218dea463f53638aacf3c4c6b550fe45"
+hash = "6698509ebe8ee5b3072c410c1affcb11b3bdf2f0bfa835a1164faf0cdf6ce90d"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "753988469938af8da2254e0c9292fa7659e7f1497da731fe70aae3f840a1f1f7"
+hash = "f928986e3d59589b05f7fd87f33eb7d9e7b03d12c5e846094498ce71907552f1"
+metafile = true
+
+[[files]]
+file = "config/files-client-config-treeharvester.json5.pw.toml"
+hash = "63da2772be3efadf647d9bce5b9e995e30237ea02454515bb22c8d7c751194a7"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "a3e46403aabc697ad99e9dcf08ce6512a3d25d5c7ff107cc774b39ff8dcd060b"
+hash = "9460211f6c7556bb08b3a3996554d936166ad7f7e6847e0fbb91b97bca88f06d"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "0f93f6014d25a313db520bb0c836ca6fc0d375a166af68c91e746c713cfbf451"
+hash = "ca5614a259cf588c0cda479f1ce685529a34e769f2dd7836d08f9b242e470e77"
+metafile = true
+
+[[files]]
+file = "config/treeharvester/files-client-config-treeharvester-harvestable.txt.pw.toml"
+hash = "8a10143463a7927ffde3c626ab079a0be694aa70f977a9251f7b8c7727c53027"
 metafile = true
 
 [[files]]
@@ -242,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "7df6d2ceb2ca4038cc5af53e835100c21988bfd75e9edac6b8344d18c66d0739"
+hash = "290841b1021a432fa40c8341054d656e4b9e8b9165819b021cb3d6c456d16112"
 metafile = true
 
 [[files]]
@@ -452,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "2f3085d8ca835f6afecfd6978e5b20f0bd9beeb12a0902b5c01e12f8afa1ae96"
+hash = "c50e0b90082b477650b30a85fed5973efeb26bfc2a16928224b4ad712229b154"
 metafile = true
 
 [[files]]
