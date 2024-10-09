@@ -42,7 +42,7 @@
 		#The maximum number of chunks that a player can claim. Additional claims can be configured in the player config.
 		#This value can be overridden with a player permission.
 		#Range: > 0
-		maxPlayerClaims = 30
+		maxPlayerClaims = 64
 		#The maximum distance on the X or Z axis (forming a square) that a chunk can be claimed at by a player.
 		#Range: > 0
 		maxClaimDistance = 5
