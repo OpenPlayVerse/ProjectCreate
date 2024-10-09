@@ -1,0 +1,7 @@
+0.6.2
+
+Made trees be harvestet without sneeking.
+
+
+
+
