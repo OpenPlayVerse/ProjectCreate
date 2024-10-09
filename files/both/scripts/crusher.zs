@@ -13,4 +13,3 @@ import mods.create.CrushingManager;
 
 <recipetype:create:crushing>.removeByInput(<item:create:raw_zinc>);
 <recipetype:create:crushing>.addRecipe("crushed_zinc", [<item:create:crushed_raw_zinc> * 2, <item:create:experience_nugget> % 75], <item:create:raw_zinc>, 100);
-ß
