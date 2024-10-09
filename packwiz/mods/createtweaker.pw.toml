@@ -1,0 +1,13 @@
+name = "CreateTweaker"
+filename = "CreateTweaker-fabric-1.20.1-4.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vEila6nl/versions/kFzX6Oos/CreateTweaker-fabric-1.20.1-4.0.12.jar"
+hash-format = "sha1"
+hash = "54d3f5876a00185d2570af9ad718171b585989dc"
+
+[update]
+[update.modrinth]
+mod-id = "vEila6nl"
+version = "kFzX6Oos"

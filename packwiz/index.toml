@@ -36,11 +36,6 @@ hash = "edaf94417c62154a22e485b669f0e289488558c453ad57b820978d4072c9cfbe"
 metafile = true
 
 [[files]]
-file = "mods/animated-doors.pw.toml"
-hash = "a8ce03e6f782db68a453fa0d7e8d8ef3d30d4d184fa0ce030843709ea43d573f"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -141,6 +136,11 @@ hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "c81c390b0ef760626eb73aba959cfca1494c259c92587c722bcff815cae0ad95"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "7d8fe92da9ff5b1a8d370c5e68c2e29ba68b400660266347106d7d9ec6f71182"
 metafile = true
@@ -191,6 +191,11 @@ hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "e01aa1fb2f7c4a1cebbd720e610aa788338efb68222a09f1670bfefe08d44c48"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "e563a3aade07a19a87d59aa18222f1800a8c5f71af8c37046f0ce3b8a2a7a006"
 metafile = true
@@ -237,7 +242,12 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "05432274d2b59e22eeebe4d8971845cefcce34f9ff47f4b6c41be6b49d87eba5"
+hash = "23b94751eef2d355fc91ec9cb8380a5e0a330803cfaaf6234887288a446c4e9c"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
 metafile = true
 
 [[files]]
@@ -282,12 +292,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "82c75eb20fd53f9474aab91c1c9b487c7e17e570cce55700d5b14e61b5662c7b"
+hash = "ece6feed024021d7980ec5d3f5f642e82762bea900796d50107f9212ee2c1a66"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e7b2fa2f98c35733bf47bf9c923913ba4f15af1a5c2bc7b47bd34d9422218133"
+hash = "2c43bc47d0d519f5c0a05cbc785cf5a11ad9d2a8275892f5500957717bd428ac"
 metafile = true
 
 [[files]]
@@ -317,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "1bc3accf6072562427ad444cce1c56ae892f0d55d3ee632f5081a4eabf416da9"
+hash = "6e3e8ae15d0c049beec2c3348c9884fbd92fd542c463228bd39423c2e6c81dfc"
 metafile = true
 
 [[files]]
@@ -477,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "52249363d80f60c37a102ce50ec7c28bb3778ce6562048a4b891bea54c3aea52"
+hash = "74f0f90afdbe6744746f7c1f4dca99772618193ed10ab7c90fc5ab70829aff2c"
 metafile = true
 
 [[files]]
@@ -492,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/yawp.pw.toml"
-hash = "aba271cb888cf9739337916d306430388221b5f8e9ec7f73e0facb68aa4e0bc7"
+hash = "4760ee5afda235fce6bde4e90a4fd8956d999a4fb48cdbfc61ddd03c25361f64"
 metafile = true
 
 [[files]]
