@@ -3,7 +3,7 @@ filename = "servers.dat"
 side = "client"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/04d54530ecd207a56f13603c38b080921323e0ca/files/client/config/defaultoptions/servers.dat"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/ef28fb7a3553a2bbaa373886ad41239f88f531ab/files/client/config/defaultoptions/servers.dat"
 hash-format = "sha1"
 hash = "340ec8c0c6f47ca269a23c5787375567867b3305"
 					
