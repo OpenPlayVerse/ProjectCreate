@@ -2,27 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "3ace9978b005ba50df50f8de38d0c3457d11530da3ca71c941e7296361a2aadf"
+hash = "b376c7a9ec6ce881a8d2c334178f749f21809aee392545be112312c913e5799f"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "6044ed0d478590c7aed0c130c6f7d7f4bb2f97bb3c386e2e52cbb32711fc3edd"
+hash = "f279b86f2e8e6817cefd9960085ce50030f5f090e4826d93cda0a952d1ca7516"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "967a4ce26c47ea154e8d87cc5b17554e1cf130b13dd0746b9fdafddf6523b0ae"
+hash = "83b3c58ddaa5343250ce8c50f91004542f0ba1fc5454c40b0412e107200af7ff"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "61034641e11fd62a4666c9701079dae83c56c45103e12c9545f0ad861ae9f9bc"
+hash = "b87bcf2e33dee010c64e26a8768fefc440c3bb95a56883d23a895f7d60f1bc2d"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "c8a8d4c9f481a4656ff37567998f4d9d3f540487d573eff44692ab507181dc81"
+hash = "7e52f13685aa3d7694eecfbb57e55b79d2900a72e32fde6fce82ddfb890540ed"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "d1e4fae58e7f93742cae2eb958304c2b23baf13cf08e6de922d8f3936da67118"
+hash = "dd58e266f0dc4d99c35675362f2e08dea3da5f1a98e01ac1467242b53182e1f3"
 metafile = true
 
 [[files]]
