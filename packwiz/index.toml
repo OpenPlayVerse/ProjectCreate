@@ -271,13 +271,13 @@ hash = "3ba06f78518416a9031681dd5a9bd4f78ce7c6c9e83e31afd811b98bdf124c0a"
 metafile = true
 
 [[files]]
-file = "mods/files-both-mods-light.jar.pw.toml"
-hash = "c27d6ad3565b8db8b70ec93419be41b4eb3338c034cbff10d873fa042fc1e290"
+file = "mods/files-both-mods-worldedit.jar.pw.toml"
+hash = "f76b5775b2d917459e81d616991879abda9d330ce65c538c93f154fc5e73f91d"
 metafile = true
 
 [[files]]
-file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "f76b5775b2d917459e81d616991879abda9d330ce65c538c93f154fc5e73f91d"
+file = "mods/files-client-mods-light.jar.pw.toml"
+hash = "17ff8117ef52c10416d46d20dd1aacf6e54c131d0cbd7a62578f5f7df34e4b70"
 metafile = true
 
 [[files]]
