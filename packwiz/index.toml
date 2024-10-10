@@ -146,6 +146,11 @@ hash = "fbe762eb3e239f8ca3ffd46e788bd50d0295d229a6515a1590201f3b1d96a468"
 metafile = true
 
 [[files]]
+file = "mods/copper_tools.pw.toml"
+hash = "5ef5d410a6755afce16cc09191e5a6d4e3abe8e1b99356a9a1e7d8253f70bc49"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
 metafile = true
