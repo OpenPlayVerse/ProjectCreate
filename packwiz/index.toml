@@ -2,27 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "495305045f794b693e92b97e0116c4652cc20e946159af77b732cae714a399a8"
+hash = "248267631aac2aa1b17ff2f9179cbf9bdaa3cc43461f28cc89649d8e2c061801"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "d7ec0aeaacafadee788ef098ed80cca21eb729ed6af17be3bd902aeb0efdbea3"
+hash = "71cbc0e59cf4f4610c50eb1b05d9eb79c55ed5d78ff2608efe87ba3f68bd1517"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "0ad42983b5597dd4cd2599ca71873f2102910dfe9f2303d1537bd2b742baff21"
+hash = "b73ed5ad99e0101e7c582526ea50854d9556055b1986bec08b71f49c53051679"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "f153a7e9c9b9dacae25c4ed218786db4fc9268fa38b57ab842f978bee485ef36"
+hash = "0d73d33eb9468190622fe65e8564e4b8090b51e5093467fab4e0da0dc68550af"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "a60d616f48157ae1b1b22cd867ab51c7747f10c772bcb936f6fb37a301862fbc"
+hash = "a130ac148a2672c1a702a617557bd9e920fa5fe4decaa90bd6ff2f450b323f67"
 metafile = true
 
 [[files]]
@@ -257,12 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-VanillaParts.jar.pw.toml"
-hash = "7d68f6e8819897ff65c79070f09354b71216675cffcc8b9cc517121fd18cfc55"
+hash = "3ca9b04b2c20d3a7606b6cdb193e34a4983365e4acff66d82c7c75f0f1d5626e"
 metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "2d3178dabe32c43bc3b7cdf502d11604dc7d49f6f33b7aa4a5f5f77d0e5b4ec2"
+hash = "ee1fd75edafb5765d32a6077da067eec2b8af7d0ac7b6b81c154fb22fb738d56"
 metafile = true
 
 [[files]]
@@ -517,5 +517,5 @@ metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-crusher.zs.pw.toml"
-hash = "084b025ebbdfb570edcfa9d9a8592d7e1169e51c2b2d09f8ce7f9b09d18c3915"
+hash = "5df7ab7098be750142546ada76aedaa3fb96fdfbd243f46178942c944a395f7e"
 metafile = true
