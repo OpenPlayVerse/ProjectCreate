@@ -93,6 +93,7 @@ TerraBlender
 Tiny Item Animations
 Tree Harvester
 Valkyrien Skies
+VanillaParts.jar
 Very Many Players (Fabric)
 WI Zoom
 worldedit.jar
