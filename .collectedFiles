@@ -5,5 +5,6 @@
 ./packwiz/config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml
 ./packwiz/mods/files-both-mods-worldedit.jar.pw.toml
 ./packwiz/mods/files-both-mods-VanillaParts.jar.pw.toml
+./packwiz/mods/files-both-mods-light.jar.pw.toml
 ./packwiz/scripts/files-both-scripts-crusher.zs.pw.toml
 ./packwiz/scripts/files-both-scripts-itemFrame.zs.pw.toml
