@@ -3,7 +3,7 @@ filename = "itemFrame.zs"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw//files/both/scripts/itemFrame.zs"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/a9eb919d5bc1e1c593c2ca646409f0b71ba8612c/files/both/scripts/itemFrame.zs"
 hash-format = "sha1"
 hash = "2d2638786e1b645a9d86780df20ea5793fc2ab48"
 					
