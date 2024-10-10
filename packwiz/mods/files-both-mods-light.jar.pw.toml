@@ -1,0 +1,9 @@
+name = "light.jar"
+filename = "light-overlay-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/b004087f58a5402c760abfe0db420ae1ffdc581c/files/both/mods/light-overlay-8.0.0.jar"
+hash-format = "sha1"
+hash = "ba9d6db7b84d9b00b74e4fb04f137c96d080cb0a"
+					

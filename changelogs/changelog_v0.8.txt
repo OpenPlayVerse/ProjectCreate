@@ -1,0 +1,6 @@
+0.8
+
+Added mod 'Light Overlay'
+
+Mod changes:
+	\+ itemFrame.zs 

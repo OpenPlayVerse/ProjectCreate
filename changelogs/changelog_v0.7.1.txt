@@ -1,0 +1,4 @@
+0.7.1
+
+Added alternative 'Item Frame' recepie.
+
