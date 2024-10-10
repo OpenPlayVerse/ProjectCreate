@@ -36,6 +36,11 @@ hash = "edaf94417c62154a22e485b669f0e289488558c453ad57b820978d4072c9cfbe"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -138,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
-metafile = true
-
-[[files]]
-file = "mods/controlling.pw.toml"
-hash = "fbe762eb3e239f8ca3ffd46e788bd50d0295d229a6515a1590201f3b1d96a468"
 metafile = true
 
 [[files]]

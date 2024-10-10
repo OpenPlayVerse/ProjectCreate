@@ -1,5 +1,3 @@
-0.11.1
-
-Added alternative 'Item Frame' recepie using copper nugget (for real this time).
+0.11.1d
 
 
