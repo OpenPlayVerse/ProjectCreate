@@ -1,0 +1,13 @@
+name = "Carrier"
+filename = "carrier-1.12.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T9pMKWr7/versions/lIvpES94/carrier-1.12.0.jar"
+hash-format = "sha1"
+hash = "71da28971b7f47c13eac90d47fb92548d87555d4"
+
+[update]
+[update.modrinth]
+mod-id = "T9pMKWr7"
+version = "lIvpES94"

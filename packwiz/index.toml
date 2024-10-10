@@ -86,6 +86,11 @@ hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
 
 [[files]]
+file = "mods/carrier.pw.toml"
+hash = "041eee7b33bb7a7f7b6507e26446a051f0592dd2b7b3f8a94dec847801a79567"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "e3c16dab7045c40fc62f8af51b9128682dfd42c0b73580da268998d62cc22d9c"
 metafile = true
