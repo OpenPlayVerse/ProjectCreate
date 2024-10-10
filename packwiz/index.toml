@@ -2,27 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "a4d33a3638c3be89f74ab55e299ffa4540210f38c61290fbda73a73b1b1410d7"
+hash = "dce29461179df04782c9a5bb09748c2a87ebe558941e8599a280418472d52530"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "7136d5721f00a04351878720b906ade70d9873f0e003bc61088c0713dfbb23ae"
+hash = "0d742b1c78a2baf2afddc1e108b1e4b98f628b53e572989c6bf39aed064fad44"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "51c20451c65421eeef5f4f2ac66862218775a6f2439bafb5f960e65c860a2195"
+hash = "0eedd3a0a82bdaaf84641df128258c9edf6eb433e2b170c984ca538cc1a82f16"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "a3c5f9c12bc9448461f529fc05d57de1d91d8b8d8d8ba0c0a5c2ee0f8a800742"
+hash = "b18117b75a9adeac2f158565ef2804afe4782c337bb45bbda937b5cce59a408e"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "788bca39df8d1654ce0cb1f8a9dfa3638fd01412628ae4482ab911a2507269c6"
+hash = "3ab0869c6e48b4f5f4031a76334f17bf7d9498153cbf3b14393ab438a5dca3e7"
 metafile = true
 
 [[files]]
@@ -257,12 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-VanillaParts.jar.pw.toml"
-hash = "aaf191b2e18360060e95f0e66b81f116041c08469c5ea8426718af99c30adc0f"
+hash = "c7fb3a2fea27c6e0d234b0db4c056db39b16f01c5da30c65613d0114292ee0c2"
 metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "429febac93c262ca56abc54971b11d1e523cbfccf82b6d736ceac9370f58ce2c"
+hash = "9e907d0c7f44c1678bb99d900827a6cba3241c9933a180038fe03d4d24d7ec32"
 metafile = true
 
 [[files]]
@@ -517,5 +517,10 @@ metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-crusher.zs.pw.toml"
-hash = "c3b7a72303db6bb89b38ebcff87230766ca3f8109c14f56f51b0fa6b62a5301e"
+hash = "f67330e6b0ab52eacbb06245aeabffeeb042da6e6c6b5d8d4b34c3ddbd27fca2"
+metafile = true
+
+[[files]]
+file = "scripts/files-both-scripts-itemFrame.zs.pw.toml"
+hash = "9b107dc159679cb83c33cd90942a94101477efedf6a2cd5daffebe315e2097e9"
 metafile = true

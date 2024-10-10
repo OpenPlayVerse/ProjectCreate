@@ -1,0 +1,9 @@
+name = "itemFrame.zs"
+filename = "itemFrame.zs"
+side = "both"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/c01c3a9d7a6e0c7715bbcd97c450061b61dac636/files/both/scripts/itemFrame.zs"
+hash-format = "sha1"
+hash = "2d2638786e1b645a9d86780df20ea5793fc2ab48"
+					
