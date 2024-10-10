@@ -1,1 +1,3 @@
-0.8d
+0.9
+
+Made 'Light Overlay' mod client only.
