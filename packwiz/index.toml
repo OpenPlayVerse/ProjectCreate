@@ -156,6 +156,11 @@ hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
 metafile = true
 
 [[files]]
+file = "mods/couplings.pw.toml"
+hash = "5fc93b617e87a64c0d687b12cccef78366566d84e2012a4dd6a94340d60bdd7f"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "c81c390b0ef760626eb73aba959cfca1494c259c92587c722bcff815cae0ad95"
 metafile = true
