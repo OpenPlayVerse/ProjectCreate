@@ -336,11 +336,6 @@ hash = "2e3cbff9fb73dd42f73300a42edfd0e4ef2c203d0793572c1dbe90f62299b259"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "059bc53cff9f4bc40ebef06687cdd6bb34eac667d8cb40f527540f1fd70ac262"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
