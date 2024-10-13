@@ -1,11 +1,3 @@
-0.12
+0.12.1
 
-
-
-
-Mod changes:
-	\+ Amecs 
-	\+ Couplings 
-	\+ Just Enough Resources (JER) 
-
-	\- Controlling 
+Made JER server side as well.
