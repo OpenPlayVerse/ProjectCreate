@@ -11,3 +11,8 @@ hash = "8d6badebb7f2aea04793c92174dafa946b13f1e9"
 [update.modrinth]
 mod-id = "xv94TkTM"
 version = "6ipZLQSK"
+
+[option]
+optional = true
+default = true
+description = "Is imcompatible with the 'Amecs' mod."
