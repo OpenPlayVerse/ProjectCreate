@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "8804efc2523645b930b644388b9df9c1d0115c09178d5c777a5d44f99b1778ae"
+hash = "daffe8df12ba859516964eece95ef65491b49c5188b95444487d698aa7b05cd5"
 metafile = true
 
 [[files]]
@@ -508,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/sqlite-jdbc.pw.toml"
 hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
+metafile = true
+
+[[files]]
+file = "mods/tap-tab.pw.toml"
+hash = "662978f72d073153ee180996932a43ae2310639691426cab328192cbb1b5adbf"
 metafile = true
 
 [[files]]
