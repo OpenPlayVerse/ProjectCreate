@@ -14,5 +14,5 @@ version = "6ipZLQSK"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Is imcompatible with the 'Amecs' mod."
