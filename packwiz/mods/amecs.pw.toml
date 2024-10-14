@@ -15,4 +15,4 @@ version = "HuXAp0GB"
 [option]
 optional = true
 default = true
-description = "Is imcompatible with the 'Controlling' mod.\n\nIMPORTANT: If any JEI key is mapped with a modifyer key, attacking and breaking blocks while sneaking is not working anymore."
+description = "Is incompatible with the 'Controlling' mod.\n\nIMPORTANT: If any control is mapped to shift+left_click, attacking and breaking blocks while sneaking is not working anymore.\n\nNOTE: JEI is mapping keys to shift+left_click per default. If this mod gets added after the modpack instance started the first time, those controls need to be changed manually."
