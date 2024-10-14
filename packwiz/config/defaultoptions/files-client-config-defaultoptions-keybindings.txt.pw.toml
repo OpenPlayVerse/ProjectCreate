@@ -1,0 +1,9 @@
+name = "keybindings.txt"
+filename = "keybindings.txt"
+side = "client"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/04b8601eedea36bcae02131de2d82e3ca233898b/files/client/config/defaultoptions/keybindings.txt"
+hash-format = "sha1"
+hash = "c75eef4b7352b93734c9fc4f50c0c3fc634dbfd5"
+					

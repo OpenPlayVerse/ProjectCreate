@@ -3,6 +3,7 @@
 ./packwiz/config/files-client-config-dynamic.json.pw.toml
 ./packwiz/config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml
 ./packwiz/config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml
+./packwiz/config/defaultoptions/files-client-config-defaultoptions-keybindings.txt.pw.toml
 ./packwiz/mods/files-client-mods-light.jar.pw.toml
 ./packwiz/mods/files-both-mods-worldedit.jar.pw.toml
 ./packwiz/mods/files-both-mods-VanillaParts.jar.pw.toml
