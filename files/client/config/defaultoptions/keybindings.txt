@@ -88,7 +88,7 @@ key_key.jei.nextSearch:key.keyboard.down:NONE
 key_key.jei.toggleCheatMode:key.keyboard.unknown:NONE
 key_key.jei.cheatOneItem:key.mouse.left:NONE
 key_key.jei.cheatOneItem2:key.keyboard.unknown:NONE
-key_key.jei.cheatItemStack:key.mouse.right:NONE
+key_key.jei.cheatItemStack:key.keyboard.unknown:NONE
 key_key.jei.cheatItemStack2:key.keyboard.unknown:NONE
 key_key.jei.toggleCheatModeConfigButton:key.keyboard.unknown:NONE
 key_key.jei.toggleEditMode:key.keyboard.unknown:NONE
