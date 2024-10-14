@@ -3,7 +3,7 @@ filename = "light-overlay-8.0.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/9a936b52d14f71600ca58fd4a54457a16f886ffb/files/client/mods/light-overlay-8.0.0.jar"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/5b995aa51b5a2ca19ff071030b314dcb8f05d365/files/client/mods/light-overlay-8.0.0.jar"
 hash-format = "sha1"
 hash = "ba9d6db7b84d9b00b74e4fb04f137c96d080cb0a"
 					
