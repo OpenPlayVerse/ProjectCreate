@@ -66,11 +66,6 @@ hash = "e5d86fb4c17efd499b0d954103a46fe68b2ae1d4737de7e9101a13f7cc57fb9c"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "ef110bda99269373b1897ca6322509a40885e69174260f07e42e9b8b1335e76b"
 metafile = true
