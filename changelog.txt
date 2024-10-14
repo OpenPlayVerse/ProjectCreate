@@ -1,5 +1,2 @@
-0.13.1
-
-Added alternative 'book' recepies.
-Alterned 'Item Frame' recepies.
+0.13.1d
 
