@@ -14,8 +14,4 @@ version = "xHOdr9un"
 
 [option]
 optional = true
-<<<<<<< HEAD
-default = false
-=======
 default = true
->>>>>>> origin/main
