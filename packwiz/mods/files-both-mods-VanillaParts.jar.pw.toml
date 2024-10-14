@@ -3,7 +3,7 @@ filename = "VanillaParts-2.1.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/e7be42ebb3795fc7c005fc42b7a700ae61e4f93b/files/both/mods/VanillaParts-2.1.0+1.20.1.jar"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/780c01f21e1ed3212bb4b951379c7d70c89ad438/files/both/mods/VanillaParts-2.1.0+1.20.1.jar"
 hash-format = "sha1"
 hash = "531916d410e55243d53aa42b38c51db8c909fc89"
 					
