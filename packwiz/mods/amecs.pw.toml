@@ -14,5 +14,5 @@ version = "HuXAp0GB"
 
 [option]
 optional = true
-default = false
-description = "Is imcompatible with the 'Controlling' mod."
+default = true
+description = "Is imcompatible with the 'Controlling' mod.\n\nIMPORTANT: If any JEI key is mapped with a modifyer key, attacking and breaking blocks while sneaking is not working anymore."

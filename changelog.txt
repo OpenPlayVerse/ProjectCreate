@@ -1,2 +1,3 @@
 0.16d
 
+Altenered default 'JEI' controls to be compatible with 'Amecs' mod.
