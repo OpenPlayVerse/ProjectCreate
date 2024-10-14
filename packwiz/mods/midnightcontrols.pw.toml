@@ -14,5 +14,4 @@ version = "xHOdr9un"
 
 [option]
 optional = true
-default = false
-description = "Is incompatible with the 'Controlify' mod"
+default = true
