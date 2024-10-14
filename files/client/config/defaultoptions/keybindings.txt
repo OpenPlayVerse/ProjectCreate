@@ -87,10 +87,10 @@ key_key.jei.previousSearch:key.keyboard.up:NONE
 key_key.jei.nextSearch:key.keyboard.down:NONE
 key_key.jei.toggleCheatMode:key.keyboard.unknown:NONE
 key_key.jei.cheatOneItem:key.mouse.left:NONE
-key_key.jei.cheatOneItem2:key.mouse.right:NONE
+key_key.jei.cheatOneItem2:key.keyboard.unknown:NONE
 key_key.jei.cheatItemStack:key.mouse.right:NONE
-key_key.jei.cheatItemStack2:key.mouse.middle:NONE
-key_key.jei.toggleCheatModeConfigButton:key.mouse.left:NONE
+key_key.jei.cheatItemStack2:key.keyboard.unknown:NONE
+key_key.jei.toggleCheatModeConfigButton:key.keyboard.unknown:NONE
 key_key.jei.toggleEditMode:key.keyboard.unknown:NONE
 key_key.jei.toggleHideIngredient:key.keyboard.unknown:NONE
 key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown:NONE
@@ -138,7 +138,7 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown:NONE
 key_gui.xaero_map_zoom_out:key.keyboard.unknown:NONE
 key_gui.xaero_quick_confirm:key.keyboard.right.shift:NONE
 key_gui.xaero_toggle_dimension:key.keyboard.unknown:NONE
-key_iris.keybind.reload:key.keyboard.r:NONE
+key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.k:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
 key_iris.keybind.wireframe:key.keyboard.unknown:NONE
