@@ -61,6 +61,11 @@ hash = "73fcb65b1d53a39fef80d972e697fb742104d1b03179080ab2abd44cc88b9fcf"
 metafile = true
 
 [[files]]
+file = "mods/better-controls.pw.toml"
+hash = "79620d104855c3699a62efd9c4de9071c0482f19c2a56cf85c2391748804238a"
+metafile = true
+
+[[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
 hash = "7297b8e6578d540c205f0dc28e796ab3e5a0bc1e92de210c6c6277e14347166b"
 metafile = true
