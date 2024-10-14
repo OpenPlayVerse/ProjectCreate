@@ -1,0 +1,13 @@
+name = "Audio Hotkeys"
+filename = "audio_hotkeys-1.0.5+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oAKswYFJ/versions/blMqjZ9B/audio_hotkeys-1.0.5%2B1.20.jar"
+hash-format = "sha1"
+hash = "fe22662681af03cb6b0eacf49ff9e8d9d76ca171"
+
+[update]
+[update.modrinth]
+mod-id = "oAKswYFJ"
+version = "blMqjZ9B"

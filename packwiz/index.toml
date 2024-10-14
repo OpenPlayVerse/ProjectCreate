@@ -51,6 +51,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/audio-hotkeys.pw.toml"
+hash = "4c02be84e3466f026625d584e147a2d224b3ab1a9e8b8d210367e0b1e3faa4f3"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "23e8e899ff4848205ed3f45f15a6270513ec86f1235c6734041ec7aa65e243d6"
 metafile = true
@@ -548,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
+metafile = true
+
+[[files]]
+file = "mods/vanillaconfig.pw.toml"
+hash = "71f9f0fb1e7d59a6bb5c4fb279c1806d5cfcd2bdf0eabb31de55345024d56b78"
 metafile = true
 
 [[files]]
