@@ -87,7 +87,6 @@ Not Enough Animations
 Open Parties and Claims
 openpartiesandclaims.toml
 options.txt
-Ore Harvester
 Packet Fixer
 Player Statistics
 Puzzles Lib

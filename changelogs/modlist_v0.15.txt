@@ -7,6 +7,7 @@ Balm
 BanHammer
 Better Sodium Video Settings Button
 BetterF3
+Bits And Chisels
 Bobby
 book.zs
 Botarium
@@ -24,6 +25,7 @@ Collective
 Concurrent Chunk Management Engine (Fabric)
 Configured
 Continuity
+Controlify
 Controlling
 Copper Tools
 Couplings
@@ -87,7 +89,6 @@ Not Enough Animations
 Open Parties and Claims
 openpartiesandclaims.toml
 options.txt
-Ore Harvester
 Packet Fixer
 Player Statistics
 Puzzles Lib
