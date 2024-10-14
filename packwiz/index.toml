@@ -61,11 +61,6 @@ hash = "73fcb65b1d53a39fef80d972e697fb742104d1b03179080ab2abd44cc88b9fcf"
 metafile = true
 
 [[files]]
-file = "mods/better-controls.pw.toml"
-hash = "cafb2e5ce9ea3750cfae0cb4dfe2d1e1921cc1122ff79d75d992ce3c39cf7a55"
-metafile = true
-
-[[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
 hash = "7297b8e6578d540c205f0dc28e796ab3e5a0bc1e92de210c6c6277e14347166b"
 metafile = true
@@ -326,6 +321,16 @@ hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
+file = "mods/hotbar-swapper.pw.toml"
+hash = "701112d16ef6c409cb14134eef44292149b63a35c197babec718d532e66436c3"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "b7a1b382e9169392b2cb86fa118b4d9d4411bf18ed54d9b2ac66eefdded674ea"
 metafile = true
@@ -518,11 +523,6 @@ metafile = true
 [[files]]
 file = "mods/sqlite-jdbc.pw.toml"
 hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
-metafile = true
-
-[[files]]
-file = "mods/tap-tab.pw.toml"
-hash = "662978f72d073153ee180996932a43ae2310639691426cab328192cbb1b5adbf"
 metafile = true
 
 [[files]]
