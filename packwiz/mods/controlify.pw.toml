@@ -11,3 +11,7 @@ hash = "64b7a7fc5087b04297c1b9b397476613249cebd5"
 [update.modrinth]
 mod-id = "DOUdJVEm"
 version = "HM1y7RZl"
+
+[option]
+optional = true
+default = false
