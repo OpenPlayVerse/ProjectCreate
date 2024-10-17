@@ -546,6 +546,11 @@ hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
 metafile = true
 
 [[files]]
+file = "mods/tap-tab.pw.toml"
+hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
