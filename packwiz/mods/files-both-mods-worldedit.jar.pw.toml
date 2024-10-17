@@ -3,7 +3,7 @@ filename = "worldedit-mod-7.2.15.jar"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/6368a2ae569e6e144cb0fb234903d24a99bedc64/files/both/mods/worldedit-mod-7.2.15.jar"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/af7329bdc16a55288e3cbcedb237a5dcd34577a0/files/both/mods/worldedit-mod-7.2.15.jar"
 hash-format = "sha1"
 hash = "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
 					
