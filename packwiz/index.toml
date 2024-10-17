@@ -96,11 +96,6 @@ hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
@@ -287,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-tps.pw.toml"
-hash = "ffbd32036e3f35326a4936105bdb0506f46e5af3f673acc39a02d8776d281ee3"
+hash = "6c823f1a892e0d2e7506d7bee0e88433d059e277209cf395dd8b21c99c38891c"
 metafile = true
 
 [[files]]
