@@ -161,11 +161,6 @@ hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "4ba3c104e279daba1c9e8caadceed78ed6a1043a7927335791fe026cf9f308e9"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "8c6dfac9b4f6b7f3885ed63e82c1a1b9b2b34d771d4bcc93d0f6103c668aafc5"
 metafile = true
@@ -376,6 +371,11 @@ hash = "ece6feed024021d7980ec5d3f5f642e82762bea900796d50107f9212ee2c1a66"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "2e3cbff9fb73dd42f73300a42edfd0e4ef2c203d0793572c1dbe90f62299b259"
 metafile = true
@@ -511,6 +511,11 @@ hash = "9de1ee6b883e261423c0571044bf0cb1c07c5f580e528e1a84e93f0a7c4b082b"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e6d365b3adae4ea6000f80601cf0e35e5ddccb56b38faed9aa086008c0bd64e1"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "7b5d4da1d5f6c8455c33dc8bbcdbfdde0de2831f40f397d1bf990c9bcc8f0de6"
 metafile = true
@@ -568,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/vanillaconfig.pw.toml"
 hash = "71f9f0fb1e7d59a6bb5c4fb279c1806d5cfcd2bdf0eabb31de55345024d56b78"
+metafile = true
+
+[[files]]
+file = "mods/vmod.pw.toml"
+hash = "497aa8318b8950a1be5215589824190b7f3a6d5d8c83647b4a96a6097395a191"
 metafile = true
 
 [[files]]
