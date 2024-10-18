@@ -2,3 +2,8 @@
 
 Made "Hotbar Swapper" optional and disabled per default.
 
+
+
+Mod changes:
+	\+ Carry On 
+	\+ Shifty Hotbar 
