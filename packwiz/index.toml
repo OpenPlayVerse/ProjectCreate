@@ -336,11 +336,6 @@ hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
-file = "mods/hotbar-swapper.pw.toml"
-hash = "30ac7f7712abc3c4587f508c70893ae68511560fe055204960e5b5bf68486516"
-metafile = true
-
-[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
 metafile = true

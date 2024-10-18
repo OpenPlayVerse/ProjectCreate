@@ -61,7 +61,6 @@ Faux Custom Entity Data
 FerriteCore
 Forge Config API Port
 Gravestones
-Hotbar Swapper
 hotbarswapper.toml
 iChunUtil
 Indium
