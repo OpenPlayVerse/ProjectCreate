@@ -101,11 +101,6 @@ hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
 
 [[files]]
-file = "mods/carrier.pw.toml"
-hash = "041eee7b33bb7a7f7b6507e26446a051f0592dd2b7b3f8a94dec847801a79567"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
