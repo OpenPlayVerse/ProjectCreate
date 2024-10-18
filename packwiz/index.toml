@@ -106,6 +106,11 @@ hash = "041eee7b33bb7a7f7b6507e26446a051f0592dd2b7b3f8a94dec847801a79567"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "e3c16dab7045c40fc62f8af51b9128682dfd42c0b73580da268998d62cc22d9c"
 metafile = true
@@ -526,6 +531,11 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
+file = "mods/shifty-hotbar.pw.toml"
+hash = "fce5bbc6478da5a375ca039c25a6139886397595831bf3b3555f95df2d394961"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "811c5c45b7eda72467edcb7b3a03e6d5dbf985ed8e126ae53a238d5d9025f28f"
 metafile = true
@@ -543,11 +553,6 @@ metafile = true
 [[files]]
 file = "mods/sqlite-jdbc.pw.toml"
 hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
-metafile = true
-
-[[files]]
-file = "mods/tap-tab.pw.toml"
-hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
 metafile = true
 
 [[files]]
