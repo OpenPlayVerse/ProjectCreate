@@ -3,7 +3,7 @@ filename = "dynamic_fps.json"
 side = "client"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/206a3337d69f0d17ec16e6511c3b8c7eb1f78b59/files/client/config/dynamic_fps.json"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/7d034e538117ed478ccf93a6bc794e4f84d79ea1/files/client/config/dynamic_fps.json"
 hash-format = "sha1"
 hash = "994a9affcbb7de20fc045e453c62ae6246e9f30c"
 					

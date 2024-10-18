@@ -3,7 +3,7 @@ filename = "keybindings.txt"
 side = "client"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/206a3337d69f0d17ec16e6511c3b8c7eb1f78b59/files/client/config/defaultoptions/keybindings.txt"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/7d034e538117ed478ccf93a6bc794e4f84d79ea1/files/client/config/defaultoptions/keybindings.txt"
 hash-format = "sha1"
 hash = "e8e3cd5f6fbb2f24cd1c1860e90844624a2dbbdd"
 					
