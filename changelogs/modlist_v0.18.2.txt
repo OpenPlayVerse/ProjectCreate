@@ -14,6 +14,7 @@ book.zs
 Botarium
 Carpet
 Carrier
+Carry On
 Cave Dust
 CC: Tweaked
 CC: VS
@@ -104,6 +105,7 @@ RightClickHarvest
 Searchables
 ServerCore
 servers.dat
+Shifty Hotbar
 Shulker Box Tooltip
 Slumber
 Sodium

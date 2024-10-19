@@ -13,7 +13,7 @@ Bobby
 book.zs
 Botarium
 Carpet
-Carrier
+Carry On
 Cave Dust
 CC: Tweaked
 CC: VS
@@ -60,7 +60,6 @@ Faux Custom Entity Data
 FerriteCore
 Forge Config API Port
 Gravestones
-Hotbar Swapper
 hotbarswapper.toml
 iChunUtil
 Indium
@@ -104,6 +103,7 @@ RightClickHarvest
 Searchables
 ServerCore
 servers.dat
+Shifty Hotbar
 Shulker Box Tooltip
 Slumber
 Sodium

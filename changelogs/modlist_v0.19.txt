@@ -1,0 +1,127 @@
+3D Skin Layers
+Alternate Current
+Amecs
+Animated Doors RP
+Architectury API
+Audio Hotkeys
+BadOptimizations
+Balm
+BanHammer
+Better Sodium Video Settings Button
+BetterF3
+Bobby
+book.zs
+Botarium
+Carpet
+Carrier
+Carry On
+Cave Dust
+CC: Tweaked
+CC: VS
+CC:C Bridge
+Chisel Reborn
+Chunky
+Clockwork
+Cloth Config API
+Collective
+Configured
+Continuity
+Controlling
+Copper Tools
+Couplings
+CraftTweaker
+Create Big Cannons
+Create Deco
+Create Deco Additions
+Create Fabric
+Create Goggles
+Create Support for Open Parties and Claims
+Create: Copycats+
+Create: Diesel Generators [Fabric]
+Create: Dreams & Desires
+Create: Interactive
+Create: New Age
+Create: Numismatics
+Create: Steam 'n' Rails
+CreateTweaker
+crusher.zs
+Cull Leaves
+Default Options
+Dynamic FPS
+dynamic.json
+Enchanting Infuser
+Enhanced Block Entities
+Entity Culling
+Essential Commands
+Fabric API
+Fabric Language Kotlin
+Fabric TPS
+fast-ip-ping
+Faux Custom Entity Data
+FerriteCore
+Forge Config API Port
+Gravestones
+Hotbar Swapper
+hotbarswapper.toml
+iChunUtil
+Indium
+Inventory Profiles Next
+Iris Shaders
+itemFrame.zs
+Jade 🔍
+JamLib
+Just Enough Items
+kennytvs-epic-force-close-loading-screen-mod-for-fabric
+keybindings.txt
+Konkrete
+Krypton
+Ledger
+Let Me Despawn
+libIPN
+light.jar
+Lithium
+Make Bubbles Pop
+Memory Leak Fix
+MidnightControls
+MidnightLib
+Mod Menu
+Model Gap Fix
+ModernFix
+Mouse Tweaks
+Nature's Compass
+Noisium
+Not Enough Animations
+Open Parties and Claims
+openpartiesandclaims.toml
+options.txt
+Ore Harvester
+Packet Fixer
+Player Statistics
+Puzzles Lib
+RailOptimization
+Regions Unexplored
+Remove Reloading Screen
+RightClickHarvest
+Searchables
+ServerCore
+servers.dat
+Shifty Hotbar
+Shulker Box Tooltip
+Slumber
+Sodium
+SQLite JDBC
+TerraBlender
+Tiny Item Animations
+Tree Harvester
+Valkyrien Skies
+VanillaConfig
+VanillaParts.jar
+Very Many Players (Fabric)
+VMod
+WI Zoom
+worldedit.jar
+Xaero's Minimap
+Xaero's World Map
+yawp.toml
+Yet Another World Protector
+YetAnotherConfigLib
