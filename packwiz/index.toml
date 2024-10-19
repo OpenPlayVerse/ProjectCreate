@@ -341,6 +341,11 @@ hash = "b7a1b382e9169392b2cb86fa118b4d9d4411bf18ed54d9b2ac66eefdded674ea"
 metafile = true
 
 [[files]]
+file = "mods/integrated-circuit.pw.toml"
+hash = "ed901aa99358c93e181d7b4e3a6f2b7fa567584abc43ac79678d241e8f580cf0"
+metafile = true
+
+[[files]]
 file = "mods/interactive.pw.toml"
 hash = "b094e34df4e623024f47c4ed8ca41684f736c2e2c6d4f9504fa2660254e51d66"
 metafile = true
@@ -493,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/railoptimization.pw.toml"
 hash = "94298bd5b9d44a0707e58310c8e84b8c610f9ea758d302623690294b4c307403"
+metafile = true
+
+[[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "4e94000ecc7bd209eec3cb8537062acc68b10319501c8543dcc7db86fea9c6c5"
 metafile = true
 
 [[files]]
