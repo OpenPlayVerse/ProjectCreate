@@ -11,3 +11,8 @@ hash = "d905bff5b66e3d13b0f7c4f8038b42bb7a204974"
 [update.modrinth]
 mod-id = "hxIWsdEF"
 version = "nBDCgCXS"
+
+[option]
+optional = true
+default = false
+description = "NOTE: This mod causes minecraft to crash on X11 systems."

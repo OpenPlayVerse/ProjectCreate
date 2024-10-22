@@ -96,6 +96,11 @@ hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
@@ -567,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfix.pw.toml"
-hash = "0853f5292903c934111ab45dcdae198427516effd6a97c5c8fe95bab90da803d"
+hash = "5cc2ed44ff9bf0f8dd008b5aed8c869a09a6748f25502a2ceba459187057566f"
 metafile = true
 
 [[files]]
