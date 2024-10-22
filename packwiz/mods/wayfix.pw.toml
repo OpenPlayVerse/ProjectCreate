@@ -1,0 +1,13 @@
+name = "WayFix"
+filename = "wayfix-1.0.1+1.20+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hxIWsdEF/versions/nBDCgCXS/wayfix-1.0.1%2B1.20%2B.jar"
+hash-format = "sha1"
+hash = "d905bff5b66e3d13b0f7c4f8038b42bb7a204974"
+
+[update]
+[update.modrinth]
+mod-id = "hxIWsdEF"
+version = "nBDCgCXS"
