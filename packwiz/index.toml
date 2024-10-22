@@ -96,6 +96,11 @@ hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
@@ -113,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "c04484b7186077d8f951c8c0e8ae14dfdc1a32da994a1265f26ec748496853b9"
-metafile = true
-
-[[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "31d0eb6401336daf300ae28feb62b45de68c9deaad0dc8be7335a80d99bf6ee5"
 metafile = true
 
 [[files]]
@@ -183,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "7d8fe92da9ff5b1a8d370c5e68c2e29ba68b400660266347106d7d9ec6f71182"
-metafile = true
-
-[[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "e083e8da620315b21fb76fef352eb887aa849d8c8be2ac268251b0b386eb95ba"
 metafile = true
 
 [[files]]
@@ -277,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
 metafile = true
 
 [[files]]
@@ -343,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/integrated-circuit.pw.toml"
 hash = "ed901aa99358c93e181d7b4e3a6f2b7fa567584abc43ac79678d241e8f580cf0"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
-hash = "b094e34df4e623024f47c4ed8ca41684f736c2e2c6d4f9504fa2660254e51d66"
 metafile = true
 
 [[files]]
@@ -571,23 +561,18 @@ hash = "c50e0b90082b477650b30a85fed5973efeb26bfc2a16928224b4ad712229b154"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
-metafile = true
-
-[[files]]
 file = "mods/vanillaconfig.pw.toml"
 hash = "71f9f0fb1e7d59a6bb5c4fb279c1806d5cfcd2bdf0eabb31de55345024d56b78"
 metafile = true
 
 [[files]]
-file = "mods/vmod.pw.toml"
-hash = "497aa8318b8950a1be5215589824190b7f3a6d5d8c83647b4a96a6097395a191"
+file = "mods/vmp-fabric.pw.toml"
+hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
+file = "mods/wayfix.pw.toml"
+hash = "5cc2ed44ff9bf0f8dd008b5aed8c869a09a6748f25502a2ceba459187057566f"
 metafile = true
 
 [[files]]
