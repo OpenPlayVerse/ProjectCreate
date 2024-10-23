@@ -251,6 +251,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "6f0cbd3c8de69c34134a782b3727740947947884de33d93782293a0f87e73a41"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "12c282358daec0441e6c59e6cc3089a89c43bb809786494d29cf2e8032f56839"
 metafile = true
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "78fb7fdb30a54d118f1a6da6a63626e996a59a210b3f855c24d78fa15d6d11b6"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "3a4fd33f4f5e03f4e74950a3f97a962b2ef0fd1fae58b78d27cf3c3c06c21c0c"
 metafile = true
 
 [[files]]
@@ -536,6 +546,11 @@ hash = "31320905f9994253ed2f455c97e0707fe97bc4734f5096dc79b021369b4554b3"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "7f55a261b02fe47c9a36277c4d64a31b81b7e6a590b949d3d4e3111abe3afbfb"
 metafile = true
@@ -572,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfix.pw.toml"
-hash = "5cc2ed44ff9bf0f8dd008b5aed8c869a09a6748f25502a2ceba459187057566f"
+hash = "245e0c6cd94549555c8fb717638d5708c2be38af4e4ea4a0cc3b0e8e7ed7d660"
 metafile = true
 
 [[files]]

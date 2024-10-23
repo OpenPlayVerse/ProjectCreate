@@ -1,3 +1,3 @@
-0.21
+0.21d
 
-Due to various issues and the unstable nature of the Valkyrien Skies mod, especially on servers, we unfortunately had to remove it and all the related mods.
+Changed mod description for 'WayFix'.

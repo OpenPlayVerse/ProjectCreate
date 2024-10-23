@@ -15,4 +15,4 @@ version = "nBDCgCXS"
 [option]
 optional = true
 default = false
-description = "NOTE: This mod causes minecraft to crash on X11 systems."
+description = "NOTE: This mod is only relevant for Linux users. \n\nIMPORTANT: This mod causes minecraft to crash on X11 systems."
