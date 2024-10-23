@@ -3,7 +3,7 @@ filename = "crusher.zs"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/5df136de30e71b28dab7acea2c306912db8f54a1/files/both/scripts/crusher.zs"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/358f69b22dc3e499471c1eb76c7f6e3bbbb4d848/files/both/scripts/crusher.zs"
 hash-format = "sha1"
 hash = "8137600ab4624188cfc99fc87bbb3542bc2a82e1"
 					

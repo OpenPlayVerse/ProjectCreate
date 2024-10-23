@@ -2,37 +2,37 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-keybindings.txt.pw.toml"
-hash = "695abd97fb63a910841150fc9c1c654d13ac7506d1b7e45adcd9abb26aea375b"
+hash = "3f81914186b8a3836281962256601486e8390d0dbb59d72130922f3de652f68a"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "231ab11a582f9e20715e94e398def7a0b1957aaa167822fb23f002bc58d96726"
+hash = "4faecb089405b1b708a0ea3201e4a40b0e58422881c18cb9769a08aecb6cc926"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "94854d1abeb4168e103c07683390edd43db3722823463d1e600d6ec8c84d7ed6"
+hash = "1567b9f61b74348ed6f09836c4b9b9062062ce4f16a377ffac80d7fe3402fac6"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "2775ce4f75c55233311f2711ac12d5b2ee751909adb56f1efd39ef5746cf5203"
+hash = "69af2fc36b5d9ec42af2f4e7947fbaf4e213c76c6c4dd5ebd59a5b530f0ddef8"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-hotbarswapper.toml.pw.toml"
-hash = "5d96c47ac9cd5d4f6dbdc039f894122860984aa0e770c0260cf03056bd001cd3"
+hash = "ce0419678fc87d7b12147d5d5209fa77e929dbec88f893f7f6239ce2524021c6"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "61b35c370d4af2b1b63e969c6cf636d9c45fba9caf3731672c407b161c3c0983"
+hash = "f035d3a533dccf0b6feb76abed5d1aec14833e87772248bff650ea12403768f6"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "683874f8c0ee1e168fc3ea7e7abc60f5c45d8e25806c6b81c0da062e999e4273"
+hash = "dc8125a1beef05deddec771fd4ee0fe9c73578d90dd0f7f03a61d197648615ff"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "6f0cbd3c8de69c34134a782b3727740947947884de33d93782293a0f87e73a41"
+hash = "8f71471a66401f8bcec36532c176234272919423fe5911a3cf44478dda2f31dc"
 metafile = true
 
 [[files]]
@@ -302,17 +302,17 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-VanillaParts.jar.pw.toml"
-hash = "49427aacff6e731aeb0c4f4fde798f6dfb4a25547c1445a46305a5d2b01bdb1a"
+hash = "75c504ab3a8fe0f43c4542b19326bf2abb5bf7e0d0b19e8d2d8def4cf42644cf"
 metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "07fb1b715cbf9a4301274a90ef070570509889de0c2e6424116dbe26ad5d2e18"
+hash = "e01d9b6fd0c751dff157710ee0ea31fe543e43f081e8de43b82c14bfdd064013"
 metafile = true
 
 [[files]]
 file = "mods/files-client-mods-light.jar.pw.toml"
-hash = "0c768a5e89730b6cb14e8b91f3f587a808e94ebf465d0be09076a8eb57abfc47"
+hash = "c5f6b88e768a81723b8de7c0dd69f9eab3b7b2f440a99c43b90fcad3480ae4a8"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "3a4fd33f4f5e03f4e74950a3f97a962b2ef0fd1fae58b78d27cf3c3c06c21c0c"
+hash = "2e65adbb9e6e6951d9998a9b24a80f4c0c23358cb8a04e05b840247bd5bd6a63"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
+hash = "346e6d4f247900c4a874a9ec27ef17ce94ba3a4bd18fc31199e56880805ccd9c"
 metafile = true
 
 [[files]]
@@ -622,15 +622,15 @@ metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-book.zs.pw.toml"
-hash = "992b52b0816ac585eb039f7d8ab754034866149e8621132b6d507ca4d2942ed9"
+hash = "1fa4993e85bcdbf3df45a0ca1aacbef2e56e6c6b30b77cb71ea4c004165e8269"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-crusher.zs.pw.toml"
-hash = "3ddf5d8e4da3fbfa6dea095ce98e927c2f09d10ba81b7c20973a01118dfe88a9"
+hash = "ee756dc399b132e7c9c4ee735ceb232fa9007108f6216b8bf446d0f1163fe7ca"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-itemFrame.zs.pw.toml"
-hash = "931040110556056defb1c23a8f4430203b8f3d824ac73f2df22d5855732781ce"
+hash = "33e6c47988765adf01073409e031f249408a760fb7815b8c041094d49f2e9b87"
 metafile = true
