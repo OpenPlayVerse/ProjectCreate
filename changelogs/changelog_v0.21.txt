@@ -1,0 +1,14 @@
+0.21
+
+Due to various issues and the unstable nature of the Valkyrien Skies mod, especially on servers, we unfortunately had to remove it and all the related mods.
+
+
+Mod changes:
+	\+ Concurrent Chunk Management Engine (Fabric) 
+	\+ WayFix 
+
+	\- CC: VS 
+	\- Clockwork 
+	\- Create: Interactive 
+	\- Valkyrien Skies 
+	\- VMod 

@@ -3,7 +3,7 @@ filename = "hotbarswapper.toml"
 side = "client"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/358f69b22dc3e499471c1eb76c7f6e3bbbb4d848/files/client/config/hotbarswapper.toml"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/a36ddc025dd2ed0403794cf05762d7c77ffd8ff2/files/client/config/hotbarswapper.toml"
 hash-format = "sha1"
 hash = "555166f3ed58b02215ce09a1b78b60310e52ca36"
 					

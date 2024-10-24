@@ -2,37 +2,37 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-keybindings.txt.pw.toml"
-hash = "3f81914186b8a3836281962256601486e8390d0dbb59d72130922f3de652f68a"
+hash = "122932bc127b22fd9863c33b8a07006e5252ebe922ae312d5eb53de3b75567f2"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "4faecb089405b1b708a0ea3201e4a40b0e58422881c18cb9769a08aecb6cc926"
+hash = "7737e9282a497881d8fb7cf60e39a2e6ddc04247698cf8473b043f27434dc2b9"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "1567b9f61b74348ed6f09836c4b9b9062062ce4f16a377ffac80d7fe3402fac6"
+hash = "8a4b06df365ce0c4630a8c7b71d6cdd8340890d5d60638c2d634214078569c82"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "69af2fc36b5d9ec42af2f4e7947fbaf4e213c76c6c4dd5ebd59a5b530f0ddef8"
+hash = "04ab148b13017736b1061928b8ee328931c2f5a0d51d85bd170d4f9af2e65477"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-hotbarswapper.toml.pw.toml"
-hash = "ce0419678fc87d7b12147d5d5209fa77e929dbec88f893f7f6239ce2524021c6"
+hash = "118b5b97473133ca5bc86dc4382ba451536f65b839572c77f2358b6cc0d63684"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "f035d3a533dccf0b6feb76abed5d1aec14833e87772248bff650ea12403768f6"
+hash = "6af6e89d54765f63065cf81a9801b6029600c5712628c2a3bf84ccfa54160f53"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "dc8125a1beef05deddec771fd4ee0fe9c73578d90dd0f7f03a61d197648615ff"
+hash = "5ed40b2fa50605be0881536923e8df27f2080acfe4f3a3b5d3b112ece4ed91b4"
 metafile = true
 
 [[files]]
@@ -73,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/banhammer.pw.toml"
 hash = "73fcb65b1d53a39fef80d972e697fb742104d1b03179080ab2abd44cc88b9fcf"
+metafile = true
+
+[[files]]
+file = "mods/better-sodium-video-settings-button.pw.toml"
+hash = "7297b8e6578d540c205f0dc28e796ab3e5a0bc1e92de210c6c6277e14347166b"
 metafile = true
 
 [[files]]
@@ -246,11 +251,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "8f71471a66401f8bcec36532c176234272919423fe5911a3cf44478dda2f31dc"
-metafile = true
-
-[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "12c282358daec0441e6c59e6cc3089a89c43bb809786494d29cf2e8032f56839"
 metafile = true
@@ -297,17 +297,17 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-VanillaParts.jar.pw.toml"
-hash = "75c504ab3a8fe0f43c4542b19326bf2abb5bf7e0d0b19e8d2d8def4cf42644cf"
+hash = "76b877a001eb6b0282239a563f18102a34815e1e32c4239eeb54961409d27286"
 metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "e01d9b6fd0c751dff157710ee0ea31fe543e43f081e8de43b82c14bfdd064013"
+hash = "611bdcbfd25dcdcdd5c39c289f09b65a5b897bfa7e6ecc465004cdd1bee680de"
 metafile = true
 
 [[files]]
 file = "mods/files-client-mods-light.jar.pw.toml"
-hash = "c5f6b88e768a81723b8de7c0dd69f9eab3b7b2f440a99c43b90fcad3480ae4a8"
+hash = "5940a5595fbcdbbb77f7aa40cd54491d81d53457f71ee564cc5fe5fb465a4f0b"
 metafile = true
 
 [[files]]
@@ -331,6 +331,11 @@ hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "b7a1b382e9169392b2cb86fa118b4d9d4411bf18ed54d9b2ac66eefdded674ea"
+metafile = true
+
+[[files]]
 file = "mods/integrated-circuit.pw.toml"
 hash = "ed901aa99358c93e181d7b4e3a6f2b7fa567584abc43ac79678d241e8f580cf0"
 metafile = true
@@ -338,11 +343,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "78fb7fdb30a54d118f1a6da6a63626e996a59a210b3f855c24d78fa15d6d11b6"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "67589d68bfcc5d4676e773a2f202d261492616820974f17923f53baa77db9bb1"
 metafile = true
 
 [[files]]
@@ -536,8 +536,8 @@ hash = "31320905f9994253ed2f455c97e0707fe97bc4734f5096dc79b021369b4554b3"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "346e6d4f247900c4a874a9ec27ef17ce94ba3a4bd18fc31199e56880805ccd9c"
+file = "mods/sodium.pw.toml"
+hash = "7f55a261b02fe47c9a36277c4d64a31b81b7e6a590b949d3d4e3111abe3afbfb"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfix.pw.toml"
-hash = "245e0c6cd94549555c8fb717638d5708c2be38af4e4ea4a0cc3b0e8e7ed7d660"
+hash = "5cc2ed44ff9bf0f8dd008b5aed8c869a09a6748f25502a2ceba459187057566f"
 metafile = true
 
 [[files]]
@@ -601,16 +601,21 @@ hash = "4760ee5afda235fce6bde4e90a4fd8956d999a4fb48cdbfc61ddd03c25361f64"
 metafile = true
 
 [[files]]
+file = "resourcepacks/animated-door.pw.toml"
+hash = "017011bcc2d37bc86c0fe16755a95732b8499d78f85a02427735edcfff63c350"
+metafile = true
+
+[[files]]
 file = "scripts/files-both-scripts-book.zs.pw.toml"
-hash = "1fa4993e85bcdbf3df45a0ca1aacbef2e56e6c6b30b77cb71ea4c004165e8269"
+hash = "1580b7f0d417049be5aed8e02030852323a03ba22ab1296002c5182d6b07457e"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-crusher.zs.pw.toml"
-hash = "ee756dc399b132e7c9c4ee735ceb232fa9007108f6216b8bf446d0f1163fe7ca"
+hash = "0e693725f5eda2c46486f3de28d026023899a11363a9f93bdc5a0860724d3ac8"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-itemFrame.zs.pw.toml"
-hash = "33e6c47988765adf01073409e031f249408a760fb7815b8c041094d49f2e9b87"
+hash = "ef156032b716f5c2a7e739469e49e52000c905c0d49aae19e0b42652c923e7a1"
 metafile = true

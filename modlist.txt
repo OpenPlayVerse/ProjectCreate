@@ -16,13 +16,12 @@ Carpet
 Carry On
 Cave Dust
 CC: Tweaked
-CC: VS
 CC:C Bridge
 Chisel Reborn
 Chunky
-Clockwork
 Cloth Config API
 Collective
+Concurrent Chunk Management Engine (Fabric)
 Configured
 Continuity
 Controlling
@@ -38,7 +37,6 @@ Create Support for Open Parties and Claims
 Create: Copycats+
 Create: Diesel Generators [Fabric]
 Create: Dreams & Desires
-Create: Interactive
 Create: New Age
 Create: Numismatics
 Create: Steam 'n' Rails
@@ -113,11 +111,10 @@ SQLite JDBC
 TerraBlender
 Tiny Item Animations
 Tree Harvester
-Valkyrien Skies
 VanillaConfig
 VanillaParts.jar
 Very Many Players (Fabric)
-VMod
+WayFix
 WI Zoom
 worldedit.jar
 Xaero's Minimap
