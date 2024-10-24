@@ -1,3 +1,4 @@
-0.21d
+0.22
 
 Changed some optional mod descriptions.
+Added 'Mechanical Saw' recepie to make 'Stripped Birch Log' out of 'Silver Birch Log'.
