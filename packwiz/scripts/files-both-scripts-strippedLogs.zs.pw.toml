@@ -1,0 +1,9 @@
+name = "strippedLogs.zs"
+filename = "strippedLogs.zs"
+side = "both"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/046c18ff72cbb1b9c543fcd11201db9e67b95136/files/both/scripts/strippedLogs.zs"
+hash-format = "sha1"
+hash = "40e6c55f9cc72c15bbdbf04794b39de6f3f16ebb"
+					
