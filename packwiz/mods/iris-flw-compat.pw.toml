@@ -14,4 +14,5 @@ version = "v3unHP1U"
 
 [option]
 optional = true
-default = true
+default = false
+description = "NOTE: causes graphical glitches at chests. Greatly improves performance near create creations."

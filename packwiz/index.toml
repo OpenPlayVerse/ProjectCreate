@@ -76,11 +76,6 @@ hash = "73fcb65b1d53a39fef80d972e697fb742104d1b03179080ab2abd44cc88b9fcf"
 metafile = true
 
 [[files]]
-file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "7297b8e6578d540c205f0dc28e796ab3e5a0bc1e92de210c6c6277e14347166b"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e5d86fb4c17efd499b0d954103a46fe68b2ae1d4737de7e9101a13f7cc57fb9c"
 metafile = true
@@ -336,11 +331,6 @@ hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "b7a1b382e9169392b2cb86fa118b4d9d4411bf18ed54d9b2ac66eefdded674ea"
-metafile = true
-
-[[files]]
 file = "mods/integrated-circuit.pw.toml"
 hash = "ed901aa99358c93e181d7b4e3a6f2b7fa567584abc43ac79678d241e8f580cf0"
 metafile = true
@@ -352,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "2e65adbb9e6e6951d9998a9b24a80f4c0c23358cb8a04e05b840247bd5bd6a63"
+hash = "67589d68bfcc5d4676e773a2f202d261492616820974f17923f53baa77db9bb1"
 metafile = true
 
 [[files]]
@@ -551,11 +541,6 @@ hash = "346e6d4f247900c4a874a9ec27ef17ce94ba3a4bd18fc31199e56880805ccd9c"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "7f55a261b02fe47c9a36277c4d64a31b81b7e6a590b949d3d4e3111abe3afbfb"
-metafile = true
-
-[[files]]
 file = "mods/sqlite-jdbc.pw.toml"
 hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
 metafile = true
@@ -613,11 +598,6 @@ metafile = true
 [[files]]
 file = "mods/yawp.pw.toml"
 hash = "4760ee5afda235fce6bde4e90a4fd8956d999a4fb48cdbfc61ddd03c25361f64"
-metafile = true
-
-[[files]]
-file = "resourcepacks/animated-door.pw.toml"
-hash = "017011bcc2d37bc86c0fe16755a95732b8499d78f85a02427735edcfff63c350"
 metafile = true
 
 [[files]]
