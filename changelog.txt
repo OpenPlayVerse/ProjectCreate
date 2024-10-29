@@ -1,15 +1,7 @@
-0.22
+0.23
 
-Changed some optional mod descriptions.
-Added 'Mechanical Saw' recepie to make 'Stripped Birch Log' out of 'Silver Birch Log'.
+Removed ComputerCraft turtle recepies as turtles are pretty unbalanced in this pack.
 
-Mod changes:
-	\+ Embeddium 
-	\+ Iris & Oculus Flywheel Compat 
-	\+ Sodium Extra 
-	\+ strippedLogs.zs 
+Replaced [Geometrically's Gravestones mod](https://modrinth.com/mod/gravestones) with [Pneumono_'s Gravestones mod](https://modrinth.com/mod/pneumono_gravestones).
+	If any already existing gravestones get destroyed because of this change the items can be restored manually. Please contanct an admin to do so.
 
-	\- Animated Doors RP 
-	\- Better Sodium Video Settings Button 
-	\- Indium 
-	\- Sodium 

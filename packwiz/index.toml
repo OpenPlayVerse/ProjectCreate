@@ -321,11 +321,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
-metafile = true
-
-[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
 metafile = true
@@ -481,6 +476,16 @@ hash = "5e35ee024e06c2e199c1217d44b95e48802fbf664c0b33c51b0f9ce184e6d142"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "1587dce77e3d9346f237111f47a53560e30d74ae416972e1e4b91e1faff1efa2"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "26df0477dde778de495b12bc2eb538081799d1e7d815da214db791c9339ff06b"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5dbd17b4eb5a496d819cc5d02c683733735bbdc30cd3cc79d3ad1873a9ec67e4"
 metafile = true
@@ -546,6 +551,11 @@ hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "a6ae5bbb1c637f9f792eefcbf889b2de2d822312291e6e1f9734b1c32ea45418"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
@@ -553,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "4474f76a0f6afba3f5e4ef594cd17527bb4f6b38740b3896375274bd3d20fa78"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
 
 [[files]]
