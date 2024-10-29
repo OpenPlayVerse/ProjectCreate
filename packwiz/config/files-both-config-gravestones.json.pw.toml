@@ -1,0 +1,9 @@
+name = "gravestones.json"
+filename = "gravestones.json"
+side = "both"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/0f810e1bd85ecd0b1d88a64a90481892dd039c85/files/both/config/gravestones.json"
+hash-format = "sha1"
+hash = "06b991ff990f8f15630f8f289c680391f78bc6d5"
+					

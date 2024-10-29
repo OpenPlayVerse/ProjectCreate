@@ -2,37 +2,42 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-keybindings.txt.pw.toml"
-hash = "b70eb84128b8cc0c64a91eefd0e578a11c5a5e22a61119ff7bef9163a3944fc8"
+hash = "cd62b6f7174f9e95148b06383e55aa677e6188d35ef317d47599a59021cb91b4"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "f0cbf592468068e3d1c9d4f499c0c1f142f69b0f0127bd32d7bfbbb275941f78"
+hash = "da26834f7f5916da2c55830a9e1f18a3726818ae958c7a5834bd2d46d3ee58b1"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "f09234ac8afbfe7eb79fca10309f207c80909d8698a68402e34ef9465c4b40c6"
+hash = "f09796c8607dec1f3ce07f9d2cb15555411d53efdeb0700b0af743c77523ee61"
+metafile = true
+
+[[files]]
+file = "config/files-both-config-gravestones.json.pw.toml"
+hash = "d59123aab1918e0967e525ef47fd72684702fb096af84cfb0a92faf88bc1efd1"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "86275e5d12df55d9523fa31fb13432d36a9f7f64441971ea1124d2ad1e798785"
+hash = "80319d283ba1e54a32adca9e74a0f88d0d39d0d7dad0517213314634cc7d8864"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-hotbarswapper.toml.pw.toml"
-hash = "b92a5a9f4274a9b6ad1e5f666caf8c4b6d4bee0980c5501a1dcd518a88650ddb"
+hash = "4f9e8b62a2f60c6bc03097f8253ed47665b52833255db5c7f5a01ce58144b3d3"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "e9c563891f48b499e68a15740d67d2a324a70b8e5d42c69e32b23080087ad6a9"
+hash = "66745a29f81b3fe0b2efb68df6239b3c080306e40dc4fec2530fd550d17fb207"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "7e926a0782dbff24575f32543e9913e77c72cf162555bb118d3ce256bd70f7fb"
+hash = "e92a73c11f49af45da02ebbb4e76e8921aed00b4da5bb970ec4d5f83c2b9600c"
 metafile = true
 
 [[files]]
@@ -297,17 +302,17 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-VanillaParts.jar.pw.toml"
-hash = "c0d929cacc8bcea95e922195b232acca3b3be430c99f7cac98d481278e64361b"
+hash = "4ea8bc50dcb89c4ee8b8adb3326d6f4a441eba1626b7fdba9d0242608c744751"
 metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "fb7a457dcdd103d4c783dfe06ae58338f0824f6762c36e6defa07b5513dc02a4"
+hash = "31d2f302800ee01df2781497c4cd0429c0e72fd588b44ac7fa3bb272336e7a3c"
 metafile = true
 
 [[files]]
 file = "mods/files-client-mods-light.jar.pw.toml"
-hash = "20bb79a01bda76cc683706fb6dc0c9ed72d48a06a394b8414d352baa7f5bb2dc"
+hash = "eb51b643d3fb7684b82a1c6e66f22bdf8bd26bdf04e420c7d10418a8e4388021"
 metafile = true
 
 [[files]]
@@ -617,20 +622,25 @@ metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-book.zs.pw.toml"
-hash = "c6f61828b37b8b8040c34092a6226715b271ce9bb2a0a06c071c588b2537405f"
+hash = "a4e8f5efc0b2daf7eee41c8a21062f5bafa03db7ff20a98b55e98d11b6b4f966"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-crusher.zs.pw.toml"
-hash = "0ab7a7f7299de724544997dd55a68a58e1330cfd9bbc57b17d602e1054cc78ac"
+hash = "af3d9cab27eabef07f426e1083e3653960f5d7d3ca1bc6eee51be5ea543f70a7"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-itemFrame.zs.pw.toml"
-hash = "10edbb996082c5599af2b7d73205e7e73540a0ccbb88224576cb20eff55eef5b"
+hash = "49efa3f9badbb860df2c1116aca82d9fe8bd048c5d990e871c60ce5957b806f4"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-strippedLogs.zs.pw.toml"
-hash = "56842b2c9b37c833752c06387747c48d9cc52f9177e66447f17ab4f95266a3cd"
+hash = "546336210d7817d256875136d9e989b4a341b676e5131cff7b2ba67c1220d338"
+metafile = true
+
+[[files]]
+file = "scripts/files-both-scripts-turtles.zs.pw.toml"
+hash = "4c7954149a771cb5d84ce786bfdca7c4a831243b5ceddcd689dae1a0a61c49fe"
 metafile = true

@@ -3,7 +3,7 @@ filename = "yawp-region-defaults.toml"
 side = "server"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/2e423cf870c13ce7515902ebc6a2dd51dfff1665/files/server/config/yawp-region-defaults.toml"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/0f810e1bd85ecd0b1d88a64a90481892dd039c85/files/server/config/yawp-region-defaults.toml"
 hash-format = "sha1"
 hash = "81aff0942d9cf3410b27db9dca70367b79916dd2"
 					
