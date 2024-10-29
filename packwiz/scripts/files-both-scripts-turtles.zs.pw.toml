@@ -3,7 +3,7 @@ filename = "turtles.zs"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/0f810e1bd85ecd0b1d88a64a90481892dd039c85/files/both/scripts/turtles.zs"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/992358d187913970c6dda0cac3ed73b474ba03c4/files/both/scripts/turtles.zs"
 hash-format = "sha1"
 hash = "f0915d13540082b56f51e8f040c66ecfcfe96314"
 					
