@@ -1,0 +1,129 @@
+3D Skin Layers
+Alternate Current
+Amecs
+Architectury API
+Audio Hotkeys
+BadOptimizations
+Balm
+BanHammer
+BetterF3
+Bobby
+book.zs
+Botarium
+Carpet
+Carry On
+Cave Dust
+CC: Tweaked
+CC:C Bridge
+Chisel Reborn
+Chunky
+Cloth Config API
+Collective
+Concurrent Chunk Management Engine (Fabric)
+Configured
+Continuity
+Controlling
+Copper Tools
+Couplings
+CraftTweaker
+Create Big Cannons
+Create Deco
+Create Deco Additions
+Create Fabric
+Create Goggles
+Create Support for Open Parties and Claims
+Create: Copycats+
+Create: Diesel Generators [Fabric]
+Create: Dreams & Desires
+Create: New Age
+Create: Numismatics
+Create: Steam 'n' Rails
+CreateTweaker
+crusher.zs
+Cull Leaves
+Default Options
+Dynamic FPS
+dynamic.json
+Embeddium
+Enchanting Infuser
+Enhanced Block Entities
+Entity Culling
+Essential Commands
+Fabric API
+Fabric Language Kotlin
+Fabric TPS
+fast-ip-ping
+Faux Custom Entity Data
+FerriteCore
+Forge Config API Port
+Gravestones
+gravestones.json
+hotbarswapper.toml
+iChunUtil
+Integrated circuit
+Inventory Profiles Next
+Iris & Oculus Flywheel Compat
+Iris Shaders
+itemFrame.zs
+Jade 🔍
+JamLib
+Just Enough Items
+kennytvs-epic-force-close-loading-screen-mod-for-fabric
+keybindings.txt
+Konkrete
+Krypton
+Ledger
+Let Me Despawn
+libIPN
+light.jar
+Lithium
+Make Bubbles Pop
+Memory Leak Fix
+MidnightControls
+MidnightLib
+Mod Menu
+Model Gap Fix
+ModernFix
+Mouse Tweaks
+Nature's Compass
+Noisium
+Not Enough Animations
+Open Parties and Claims
+openpartiesandclaims.toml
+options.txt
+Ore Harvester
+Packet Fixer
+Player Statistics
+PneumonoCore
+Puzzles Lib
+RailOptimization
+Redstone Pen
+Regions Unexplored
+Remove Reloading Screen
+RightClickHarvest
+Searchables
+ServerCore
+servers.dat
+Shifty Hotbar
+Shulker Box Tooltip
+Slumber
+Sodium Extra
+SQLite JDBC
+strippedLogs.zs
+SuperMartijn642's Core Lib
+TerraBlender
+Tiny Item Animations
+Trash Cans
+Tree Harvester
+turtles.zs
+VanillaConfig
+VanillaParts.jar
+Very Many Players (Fabric)
+WayFix
+WI Zoom
+worldedit.jar
+Xaero's Minimap
+Xaero's World Map
+yawp.toml
+Yet Another World Protector
+YetAnotherConfigLib

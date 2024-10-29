@@ -14,5 +14,5 @@ version = "v3unHP1U"
 
 [option]
 optional = true
-default = false
+default = true
 description = "NOTE: Greatly improves performance near create creations when using iris shaders. Causes graphical glitches at chests."
