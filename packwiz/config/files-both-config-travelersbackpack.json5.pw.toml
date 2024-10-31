@@ -1,0 +1,9 @@
+name = "travelersbackpack.json5"
+filename = "travelersbackpack.json5"
+side = "both"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/d938bb5f622c0f7e9d74ddbe24f8a71a04156f32/files/both/config/travelersbackpack.json5"
+hash-format = "sha1"
+hash = "7c35542fe25a7f95f28d023ef5a3ae942c16eddf"
+					

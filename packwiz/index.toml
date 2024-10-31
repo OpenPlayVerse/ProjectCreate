@@ -2,42 +2,47 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-keybindings.txt.pw.toml"
-hash = "291aa4c863c49f2c6fe10a1fecc1de2773209da3dde3da9682343efb7000ff30"
+hash = "051fa8038b0d4a92ac85d8f358404495543384277385dea2d2692bc0b4f92ee6"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-options.txt.pw.toml"
-hash = "fb9dc591928312fc0b32157ccb314b530ef11da3ebfaf9e5e67b84a3e064bbd5"
+hash = "7bd47d67c85bce057705969d7ab06cbcd90ddc9b8f4e4947aa3f19dd75235185"
 metafile = true
 
 [[files]]
 file = "config/defaultoptions/files-client-config-defaultoptions-servers.dat.pw.toml"
-hash = "85ccfdd62cbdfa988544366b6a0e662c34da62e965bd0ad004b9b07ee7515322"
+hash = "68fbdb95f627b81a7d52ab2ad553d598537f10ce720dc61f6a7683f36c4b45d5"
 metafile = true
 
 [[files]]
 file = "config/files-both-config-gravestones.json.pw.toml"
-hash = "a112e9d79556bcd0d57e6222a9a6fa84260d49d7d3336371ae7279c317b3da69"
+hash = "be40a153872fef4085aa0b0721c3a43663cb505b4d6f34e60a99249f6cb36c2b"
+metafile = true
+
+[[files]]
+file = "config/files-both-config-travelersbackpack.json5.pw.toml"
+hash = "8e163a0d2579775c8bbafab248693b39e223923f407a0590d7d6686c0bf2eae1"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-dynamic.json.pw.toml"
-hash = "0a1bf6b55e3fc8d4442e4bff547857179fc06126e1b556fc94bf379cd13711b8"
+hash = "f000bfc798ddbe84e270e1ae34496a2a054869313f90c3d85742e728d4719660"
 metafile = true
 
 [[files]]
 file = "config/files-client-config-hotbarswapper.toml.pw.toml"
-hash = "0fbc2f61cfe77efbd92119e6adacd624ae8a9c83d8e04f400db31ffdb5d73bac"
+hash = "96a20ae9107880ac33fed3fdbcb1970d50dd2e97928683c820a16791cd72e354"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-openpartiesandclaims.toml.pw.toml"
-hash = "2f4a9d8d1df652bcc0d52040c0d58e2140c0f4a44c5abee71ef780c1bd883642"
+hash = "0c2f8af04fc8dec4c3ebea94e3a2c5eb662d7b405680a40945134453f475a5dc"
 metafile = true
 
 [[files]]
 file = "config/files-server-config-yawp.toml.pw.toml"
-hash = "4bb2cd61eb2f51365deef6fec56c18659f186ae07e89a7c456cc4117d1842cda"
+hash = "7211d26f97723bf202c33fe434850bfbe606aa6a4b940032ef0a68423207cd7b"
 metafile = true
 
 [[files]]
@@ -307,17 +312,17 @@ metafile = true
 
 [[files]]
 file = "mods/files-both-mods-VanillaParts.jar.pw.toml"
-hash = "d5400ca41e759012c0060368511cd7d4716dfaab46bd3966e36fb36df0c727c1"
+hash = "e28a74def1c08eaba4b00cd4b9fd52ccf42cd17d342d62ecb7b18162fc3a7614"
 metafile = true
 
 [[files]]
 file = "mods/files-both-mods-worldedit.jar.pw.toml"
-hash = "25f2148a1607884938c9f2d165ce4b88e3b7add06837612403c7beb8261374b9"
+hash = "9e349dbe2efe0fbe5487f32cbbea8ac28418dadb3940ff1c8b6858de7d107ba0"
 metafile = true
 
 [[files]]
 file = "mods/files-client-mods-light.jar.pw.toml"
-hash = "7e9f473a19ddd770fad4ecdc621acbd1245a6c1dd44593ec6091d1d882f424c8"
+hash = "34c675ad634b917cedea5cd53ede104eab3872524567fa403d0b0292cbf386fe"
 metafile = true
 
 [[files]]
@@ -642,25 +647,25 @@ metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-book.zs.pw.toml"
-hash = "002240d05e2d279ec2d849dde7003af9c2655bee48b98c1fa3fb0783f7dce334"
+hash = "2854812226208492c10f326a4d34b070ca139e33d8ae5e47b02943c8a457a8e8"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-crusher.zs.pw.toml"
-hash = "06ed79f6cfd2d2b6b62605b9c1c075372eeab1f15a8532e58e0dc7667c560457"
+hash = "92e786183c591a57fa6f6b1d3a160219d8799a190782e5f4e72631afa154ee2a"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-itemFrame.zs.pw.toml"
-hash = "547b4f3ee8dcda805c0b5d3b486534cac9621931a77199bb12759fcdc12cdb57"
+hash = "8fdd98d4c48e101db8eb7b1d7df914e49a9d4f4682a7a2084cc19c0c9a14010f"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-strippedLogs.zs.pw.toml"
-hash = "7f1827b738536f65390beb81a182daf0db09824e3342ed733646e84067f9e0f2"
+hash = "3f0375ef56bdd54f24fb30d55d3b6e4e82343465ca8d3d7c0f914e874309b85d"
 metafile = true
 
 [[files]]
 file = "scripts/files-both-scripts-turtles.zs.pw.toml"
-hash = "82c41b1f4b9bcf67f94730b7d9f134e5ddb6e967768e2ead6e131af5bf1635b7"
+hash = "a45f362b602c018f10090d1ab0beda9013a1ff68be0a906b73479a514b2af5be"
 metafile = true
