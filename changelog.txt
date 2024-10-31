@@ -1,4 +1,4 @@
-0.23.2d
+0.24
 
 Changed default backpack key to 'c'
 
