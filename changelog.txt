@@ -1,4 +1,4 @@
-0.23.2
+0.23.2d
 
 Made 'Iris & Oculus Flywheel Compat' mod endabled per default.
 

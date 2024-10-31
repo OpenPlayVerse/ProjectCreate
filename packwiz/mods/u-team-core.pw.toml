@@ -1,0 +1,13 @@
+name = "U Team Core"
+filename = "u_team_core-fabric-1.20.1-5.1.4.326.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g2FGQs4R/versions/RmOXaNDh/u_team_core-fabric-1.20.1-5.1.4.326.jar"
+hash-format = "sha1"
+hash = "ec5ad182de24b7c2780c2ae68f23e75a7f3fe67e"
+
+[update]
+[update.modrinth]
+mod-id = "g2FGQs4R"
+version = "RmOXaNDh"

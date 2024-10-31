@@ -101,6 +101,11 @@ hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
@@ -556,6 +561,11 @@ hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "a6ae5bbb1c637f9f792eefcbf889b2de2d822312291e6e1f9734b1c32ea45418"
 metafile = true
@@ -576,8 +586,18 @@ hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "d5ccba4a7182be53adb4575b20ebb93181e902a3ade6fe9b1b35ad743a5b24dc"
+metafile = true
+
+[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "c50e0b90082b477650b30a85fed5973efeb26bfc2a16928224b4ad712229b154"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "9a30d7680ce76964a0119f57ac4e46834e05f331d6180a59e7274f07405269a6"
 metafile = true
 
 [[files]]
