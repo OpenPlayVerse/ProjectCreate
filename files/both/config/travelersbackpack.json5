@@ -2,44 +2,44 @@
 	"backpackSettings": {
 		"leather": {
 			// Number of inventory slots for the tier
-			"inventorySlotCount": 9,
+			"inventorySlotCount": 27,
 			// Number of tool slots for the tier
 			"toolSlotCount": 2,
 			// Tank capacity for the tier, 81000 equals 1 Bucket, (Leather default: 3 buckets)
-			"tankCapacity": 81000
+			"tankCapacity": 243000
 		},
 		"iron": {
 			// Number of inventory slots for the tier
-			"inventorySlotCount": 18,
+			"inventorySlotCount": 36,
 			// Number of tool slots for the tier
 			"toolSlotCount": 3,
 			// Tank capacity for the tier, 81000 equals 1 Bucket, (Iron default: 4 buckets)
-			"tankCapacity": 162000
+			"tankCapacity": 324000
 		},
 		"gold": {
 			// Number of inventory slots for the tier
-			"inventorySlotCount": 27,
+			"inventorySlotCount": 45,
 			// Number of tool slots for the tier
 			"toolSlotCount": 4,
 			// Tank capacity for the tier, 81000 equals 1 Bucket, (Gold default: 5 buckets)
-			"tankCapacity": 243000
+			"tankCapacity": 405000
 		},
 		"diamond": {
 			// Number of inventory slots for the tier
-			"inventorySlotCount": 36,
+			"inventorySlotCount": 54,
 			// Number of tool slots for the tier
 			"toolSlotCount": 5,
 			// Tank capacity for the tier, 81000 equals 1 Bucket, (Diamond default: 6 buckets)
-			"tankCapacity": 324000
+			"tankCapacity": 486000
 		},
 		"netherite": {
 			// Number of inventory slots for the tier
-			"inventorySlotCount": 45,
+			"inventorySlotCount": 63,
 			// Number of tool slots for the tier
 			"toolSlotCount": 6,
 			// Tank capacity for the tier, 81000 equals 1 Bucket, (Netherite default: 7 buckets)
-			"tankCapacity": 405000
-		},
+			"tankCapacity": 567000
+		}
 		"enableTierUpgrades": true,
 		// Unused - keep for compatibility only, will be removed in future versions
 		"disableCrafting": false,
