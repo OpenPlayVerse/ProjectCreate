@@ -3,7 +3,7 @@ filename = "travelersbackpack.json5"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/2cb1e0cb2f6efb31e337ee07b1cea8868f2a03c6/files/both/config/travelersbackpack.json5"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/1e8f962d2129af291fbe801b8d68a0d2d2aeab34/files/both/config/travelersbackpack.json5"
 hash-format = "sha1"
 hash = "66e90748b21cc23bc422ddb49f9946f01357a915"
 					
