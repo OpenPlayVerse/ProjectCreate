@@ -1,0 +1,9 @@
+name = "BetterChiselTextures.zip"
+filename = "BetterChiselTextures.zip"
+side = "client"
+
+[download]
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/d67309a7ff413fa61cc60796484f7061153aaf60/files/client/resourcepacks/BetterChiselTextures.zip"
+hash-format = "sha1"
+hash = "9901271f0e7d09346a33a1b229bc93fac6c8bb6c"
+					

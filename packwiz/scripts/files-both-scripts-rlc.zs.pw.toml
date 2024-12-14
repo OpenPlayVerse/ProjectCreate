@@ -3,7 +3,7 @@ filename = "rlc.zs"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/1e8f962d2129af291fbe801b8d68a0d2d2aeab34/files/both/scripts/rlc.zs"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/d67309a7ff413fa61cc60796484f7061153aaf60/files/both/scripts/rlc.zs"
 hash-format = "sha1"
 hash = "477835a8ff86530f21b59752db7f7a51a42fa36e"
 					
