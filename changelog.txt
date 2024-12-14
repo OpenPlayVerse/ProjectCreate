@@ -1,10 +1,3 @@
-0.24.2
+0.24.3
 
-Buffed 'Travelers Backpack' capacities.
-
-
-
-
-
-Mod changes:
-	\+ rlc.zs 
+Added improved 'chisel:panel/deepslate' texture.
