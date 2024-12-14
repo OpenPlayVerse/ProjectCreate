@@ -3,7 +3,7 @@ filename = "BetterChiselTextures.zip"
 side = "client"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/6385518482aec1bcfe87c88a11cc0741603b2c5a/files/client/resourcepacks/BetterChiselTextures.zip"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/4af74a1dcd141866df890664d75929449a23ef4e/files/client/resourcepacks/BetterChiselTextures.zip"
 hash-format = "sha1"
 hash = "9901271f0e7d09346a33a1b229bc93fac6c8bb6c"
 					

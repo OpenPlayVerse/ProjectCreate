@@ -3,7 +3,7 @@ filename = "gravestones.json"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/6385518482aec1bcfe87c88a11cc0741603b2c5a/files/both/config/gravestones.json"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/4af74a1dcd141866df890664d75929449a23ef4e/files/both/config/gravestones.json"
 hash-format = "sha1"
 hash = "06b991ff990f8f15630f8f289c680391f78bc6d5"
 					
