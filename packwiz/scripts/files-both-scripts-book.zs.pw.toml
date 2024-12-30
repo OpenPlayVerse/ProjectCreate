@@ -3,7 +3,7 @@ filename = "book.zs"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/b23deb01cb2fddb1a93b9c9d80d93f7efb6f8bd7/files/both/scripts/book.zs"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/3c5a390cd934fe2137d5f31338aea6c05de3db98/files/both/scripts/book.zs"
 hash-format = "sha1"
 hash = "dea03f38c83287d60f44d2133ce93162eab83740"
 					
