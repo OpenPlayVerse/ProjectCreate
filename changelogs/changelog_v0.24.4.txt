@@ -5,3 +5,7 @@ Added vegi leather recipe.
 
 
 
+
+
+Mod changes:
+	\+ vegiLeather.zs 

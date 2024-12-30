@@ -125,6 +125,7 @@ turtles.zs
 U Team Core
 VanillaConfig
 VanillaParts.jar
+vegiLeather.zs
 Very Many Players (Fabric)
 WayFix
 WI Zoom
