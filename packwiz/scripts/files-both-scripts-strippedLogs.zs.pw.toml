@@ -3,7 +3,7 @@ filename = "strippedLogs.zs"
 side = "both"
 
 [download]
-url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/4af74a1dcd141866df890664d75929449a23ef4e/files/both/scripts/strippedLogs.zs"
+url = "https://github.com/OpenPlayVerse/ProjectCreate/raw/e5058b47aa3a614675abdee599ca68032eab39aa/files/both/scripts/strippedLogs.zs"
 hash-format = "sha1"
 hash = "40e6c55f9cc72c15bbdbf04794b39de6f3f16ebb"
 					
