@@ -1,2 +1,2 @@
 @echo off
-java -jar packwiz-installer-bootstrap.jar -s client https://github.com/OpenPlayVerse/ProjectCreate/raw/22cb7a89a9ac7b84d517ab14cffee62b2be49dbf/packwiz/pack.toml
+java -jar packwiz-installer-bootstrap.jar -s client https://github.com/OpenPlayVerse/ProjectCreate/raw/8c7dadc1acf295ece606d08af6317ec9485c1c66/packwiz/pack.toml
